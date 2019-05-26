@@ -2,7 +2,7 @@
 assalamualaikum wr.wb..
 
 pkg install git
-git clone
+git clone https://github.com/Speedy676/spdy
 clear
 cd spdy
 chmod 777 cinta
