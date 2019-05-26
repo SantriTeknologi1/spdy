@@ -1,0 +1,3638 @@
+#---------#
+blue='\e[0;34'
+cyan='\e[0;36m'
+green='\e[0;34m'
+okegreen='\033[92m'
+lightgreen='\e[1;32m'
+white='\e[1;37m'
+red='\e[1;31m'
+yellow='\e[1;33m'
+#---------#
+blue='\033[34;1m'
+green='\033[32;1m'
+purple='\033[35;1m'
+cyan='\033[36;1m'
+red='\033[31;1m'
+white='\033[37;1m'
+yellow='\033[33;1m'
+###############
+#  By Speedy  #
+###############
+#-----$
+trap ctrl_c INT
+ctrl_c() {
+clear
+echo -e """  
+  
+  
+          [!] My Tools Created By""" | lolcat
+echo -e "          [-] Speedy Feat Mrs.D!ta" | lolcat
+sleep 2
+clear
+echo -e "          [-] Thank Use My Tools :*" | lolcat
+clear
+exit
+}
+#
+
+clear
+echo -e $white" [1]  Enter "
+read enter
+clear
+echo -e $white" [2]  Enter "
+read enter
+clear
+cd $HOME/spdy
+clear
+echo "" | lolcat
+clear
+echo -e $red"""
+   ✓ Creator   : Speedy Ft Mrs.D!T4
+   ✓ Friends   : 44nG LX - K3mal
+   ✓ Date      : 21 Mei 2019
+   ✓ ContactMe : aangyusuf77@gmail.com
+   ✓ Location  : Indonesia - Tanggerang
+   ✓ Team      : -"""
+
+read enter
+clear
+clear
+echo -e $red """   [!----------------------!] [!]       Speedy       [!] [!----------------------!]"""$green"I-in"
+echo -e """
+     
+    01~ LiteDDos                 02~ Lazymux                  03~ webdav
+    04~ HackFb                   05~ Litespam                 06~ Hammer
+    07~ Red_Hawk                 08~ WPScan                   09~ SQL Scan
+    10~ SQLmap                   11~ Santet Online            12~ Vbug Maker
+    13~ Kali NetHunter           14~ Meatsploit               15~ SC Deface Creator
+    16~ XSS Strike               17~ D-TECT                   18~ Nmap
+    19~ Black Box                20~ Info Gathering           21~ WIFI Hacker -RooT-
+    22~ Admin Finder             23~ Sudo8                    24~ Router Sploit
+    25~ IP Geolocation           26~ The FatRat               27~ Weeman
+    28~ Ubuntu                   29~ Hash Buster              30~ Hunner
+    31~ Instabot                 32~ Fish                     33~ OhmzshStyling Termux
+    34~ Bom Call Tokped          35~ Breacher                 36~ PagekiteNgrok
+    37~ DarkSploit               38~ SH33LL                   39~ Evil-Create-Framework
+    40~ Gabutz                   41~ RootNet                  42~ BadMoD
+    43~ BoomHash                 44~ Plutus                   45~ ContexPloiT
+    46~ Th3inspector             47~ Findip                   48~ V3nom-Scanner
+    49~ Bom Sms                  50~ WebKiller                51~ Bitcoin-Hacking-Tool
+    52~ Firefox-Plugin-Popup     53~ BTC All Key Generator    54~ My-First-Bitcoin-Miner
+    55~ Parity-Config-Generator  56~ Distri BTC Generator     57~ Mesos-Bitcoin-Miner
+    58~ Git_Psibot_Hacking       59~ KatanaFramework          60~ STP
+    61~ Termux-Ubuntu            62~ Nethuner-In-Termux       63~ viSQL
+    64~ Termux-Archlinux         65~ Santet-Online            66~ GadoGado
+    67~ CnkSpam                  68~ AutoReportFB             69~ Google-Dork
+    70~ FHX-Hash-Killer          71~ Linux                    72~ Komodo
+    73~ HN-Installer             74~ Deface-Create            75~ Good_Terminal
+    76~ Saddam                   77~ SqliteBrowser            78~ PoC-Exploit
+    79~ VTools                   80~ Termux-Loginv2fx         81~ Anti-DDOS
+    82~ NScan                    83~ Hostcheker               84~ WebKit
+    85~ AOCDEFACE                86~ Face-Hack                87~ Bash-Ransomware
+    88~ Cli-Browser              89~ Spam-Mantan              90~ Hulk
+    91~ Termux-Lazsqlmap         92~ Shellnoob                93~ ATSCAN
+    94~ Commix                   95~ Wpscan                   96~ wpbf
+    97~ GreenReaper              98~ Devploit                 99~ Ipmux    
+
+    100~ Genscript               101~ Airgeddon               102~ AVARSpam
+    103~ ANRSpam                 104~ Termux-ohmyzsh          105~ CredSniper
+    106~ Hash Killed             107~ Webdav Brutus NEW       108~ Report FB
+    109~ VULN SCANNING           110~ TXTtools                111~ Hash Buster
+    112~ Lite DDOS               113~ Hunner                  114~ Sqlmap
+    115~ 4wSecTools              116~ BinGoo                  117~ Termux-A
+    118~ GadoGado                119~ TermuxLaz_Sqlmap        120~ Diejoubu
+    121~ Weeman                  122~ Error Cyber Tools       123~ A-Rat
+    124~ Scan-Website-Admin-Log  125~ Android-Malware         126~ 3zPNL Tuyul
+    127~ Metasploit              128~ WAscan                  129~ VI Sql
+    130~ Kawai Botnet            131~ OWScan                  132~ AstraNmap
+    133~ Aukscan 2.0             134~ Black Hydra             135~ IP DDOS
+    136~ PhisingGame             137~ Breacher                138~ Social Fish
+    139~ Mebus - Cup             140~ MD5 Crack               141~ Pemulung BTC
+    142~ Ko-Dork                 143~ The Fat-Rat             144~ CMSmap
+    145~ Brute_Force_Gmail       146~ Nethunter-In-Termuk     147~ JoomScan
+    148~ Termux-FEDORA           149~ Ezsploit                150~ OWASP-Nettacker
+    151~ OWASP-JSC               152~ Cok-Rat                 153~ Str2Bf
+    154~ B Force                 155~ Galileo                 156~ SM Brute
+    157~ WP Seku                 158~ Hmap                    159~ Auto-Report-Fb.Id
+    160~ DHCP Dorp               161~ suRAT-cinTA             162~ M4ng Arp
+    163~ WP- Hunter              164~ Ziloceri                165~ Auto-SC-Kiddie_Tolls
+    166~ Bot-exploiter           167~ Email Harvester         168~ Gdog
+    169~ PenTest Kit             170~ CanisRufus              171~ Ettercap For Android
+    172~ Black Nmap              173~ Nmap For Android        174~ 1337 Rat
+    175~ AnyFed                  176~ Knock                   177~ VBScan
+    178~ DracNmap                179~ Tools Brutal            180~ MicroSploit
+    181~ Vegile                  182~ PhEmail                 183~ Repo Scanner
+    184~ PANhunt                 185~ Zambie                  186~ TrackUrl
+    187~ Data Sploit             188~ Email-Bomber            189~ Pynmap
+    190~ SQLI - Scanner          191~ Port-Lookup             192~ Tic-Tac-Toe
+    193~ XeroSplit               194~ ClickNRoot              195~ BlackMail
+    196~ BlackTrack              197~ HachCode                198~ Dec-Enc-Hash
+    199~ Host Checker            200~ StartPHP                201~ Facebook Notifikasi
+    202~ NoteFast                203~ Server_Domains          204~ Tool-Kit
+    205~ MyServer                206~ setoolkit-Termux        207~ Shell Stack
+    208~ FB_Video_Downlods       209~ StabilizerBot           210~ Touck_Ing_Sky
+    211~ Sarahah_XSS_Exploit     212~ PHP_BACK_Conector       213~ Wongedan Tools
+                                                                                      """ | lolcat
+echo -e $red """   [!----------------------!] [!]       Speedy       [!] [!----------------------!]"""$green"M-2"
+echo -e $red        """
+       i: ( Install Bahan, Sebelum Install Tools!!  
+       d: ( Directory Tools Yg Di Install
+       e: ( Exit Tools !!"""
+echo -e $blue
+read  -p "    ⟩" asu
+
+cd $HOME
+cd spdy
+
+
+### Menu 2 Install Bahan Tools
+
+if [ $asu = "i" ] || [ $asu = "I" ]
+then 
+echo -e "                   [!]  Sabar Master Qu  [!] " | lolcat
+echo -e $cyan"        [!]  Kalo Ada Tanda Y/N Klik y Aja Master Qu :*  [!]"
+sleep 1
+pkg install update && pkg install upgrade
+pkg install termcolor
+pip2 install mechanize
+pip2 install urllib3 chardet certifi idna requests
+apt install openssl curl
+pkg install libcurl
+pip2 install requests
+pkg install nano
+apt install git
+pkg install php
+pkg install wget
+pkg install curl
+pkg install python2
+apt install nodejs
+apt install clang
+pkg install cowsay
+pkg install toilet
+pkg install ruby
+apt install golang
+apt install perl
+apt install lolcat
+pkg install lolcat
+apt install termux-api
+apt install bash
+pip2 install bash
+apt install sh
+pip2 install sh
+pip2 install wget
+apt install sudo
+echo $red"   Sucses"
+sleep 2
+./cinta
+fi
+
+
+
+
+### Menu Out
+
+if [ $asu = "e" ] || [ $asu = "E" ]
+then
+echo "    [!]   Keluar :*" | lolcat
+echo -e $green"    [!]"$red"   Me Noob :'( , And You Master qu / me :')"
+exit 
+fi
+     
+
+
+#Directory Tools Yg Sudah Di Install #
+
+if [ $asu = "d" ] || [ $asu = "D" ]
+then
+exit 
+echo -e "   [!]    Done MasterQu.. Lihat Sendiri Ok :*" | lolcat
+dir
+fi
+
+
+
+
+#Lite Ddos#
+if [ $asu = "01" ] || [ $asu = "1" ]
+then
+cd $HOME/spdy
+git clone https://github.com/4L13199/LITEDDOS
+cd LITEDDOS
+python2 liteDDOS.py
+clear  
+echo """
+                 [!]          Tools Sudah Terinstall !!
+                 [!]          Silahkan Pergi Ke Directory !!
+                 [?]          Pilih Tools Yg Inggin di Buka!!""" | lolcat
+sleep 2
+fi
+
+
+
+
+# LazyMux #
+if [ $asu = "02" ] || [ $asu = "2" ]
+then
+cd $HOME/spdy
+git clone https://github.com/Gameye98/Lazymux
+cd Lazymux
+python2 lazymux.py
+clear
+echo """
+                 [!]          Tools Sudah Terinstall !!
+                 [!]          Silahkan Pergi Ke Directory !!
+                 [?]          Pilih Tools Yg Inggin di Buka!!""" | lolcat
+sleep 2
+fi     
+
+
+
+
+
+
+if [ $asu = "04" ] || [ $asu = "4" ]
+then
+cd $HOME/spdy
+git clone https://github.com/pirmansx/mbf
+cd mbf
+python2 MBF.py
+clear
+echo """
+                 [!]          Tools Sudah Terinstall !!
+                 [!]          Silahkan Pergi Ke Directory !!
+                 [?]          Pilih Tools Yg Inggin di Buka!!""" | lolcat
+sleep 2
+fi     
+
+
+
+
+
+if [ $asu = "03" ] || [ $asu = "3" ]
+then
+ln -s /sdcard
+cd sdcard
+mkdir webdav
+cd webdav
+curl -k -O https://pastebin.com/raw/HnVyQPtR
+mv HnVyQPtR webdav.py
+python2 webdav.py
+cd
+cd /sdcard/webdav
+python2 webdav.py
+clear
+echo """  
+                 [!]          Tools Sudah Terinstall !!
+                 [!]          Silahkan Pergi Ke Directory !!
+                 [?]          Pilih Tools Yg Inggin di Buka!!""" | lolcat
+sleep 2
+fi     
+
+
+
+
+
+if [ $asu = "05" ] || [ $asu = "05" ]
+then
+cd $HOME/spdy
+git clone https://gihub.com/4L13199/LITESPAM
+cd LITESPAM
+sh LITESPAM.sh
+clear
+echo """
+                 [!]          Tools Sudah Terinstall !!
+                 [!]          Silahkan Pergi Ke Directory !!
+                 [?]          Pilih Tools Yg Inggin di Buka!!""" | lolcat
+sleep 3
+fi
+
+
+
+
+
+if [ $asu = "06" ] || [ $asu = "6" ]
+then
+cd $HOME/spdy
+git clone https://github.com/cyweb/hammer
+cd hammer
+python hammer.py
+clear
+echo """
+                 [!]          Tools Sudah Terinstall !!
+                 [!]          Silahkan Pergi Ke Directory !!
+                 [?]          Pilih Tools Yg Inggin di Buka!!""" | lolcat
+sleep 2
+fi
+
+
+
+
+
+if [ $asu = "07" ] || [ $asu = "7" ]
+then
+cd $HOME/spdy
+apt install php-curl
+apt install php-xml
+git clone https://github.com/Tuhinshubhra/RED_HAWK
+cd RED_HAWK
+php rhawk.php
+clear
+echo """
+                 [!]          Tools Sudah Terinstall !!
+                 [!]          Silahkan Pergi Ke Directory !!
+                 [?]          Pilih Tools Yg Inggin di Buka!!""" | lolcat
+sleep 2
+fi
+
+
+
+
+
+if [ $asu = "08" ] || [ $asu = "8" ]
+then
+cd $HOME/spdy
+git clone https://github.com/wpscanteam/wpscan/
+cd wpscan
+chmod 777 wpscan.rb
+gem install bundle
+bundle install -j5
+ruby wpscan.rb
+clear
+echo """
+                 [!]          Tools Sudah Terinstall !!
+                 [!]          Silahkan Pergi Ke Directory !!
+                 [?]          Pilih Tools Yg Inggin di Buka!!""" | lolcat
+sleep 2
+fi
+
+
+
+
+
+if [ $asu = "09" ] || [ $asu = "9" ]
+then
+cd $HOME/spdy
+git clone http://www.github.com/Cvar1984/sqlscan.git
+cd sqlscan
+chmod +x sqlscan.php
+php sqlscan.php
+clear
+echo """  
+                 [!]          Tools Sudah Terinstall !!
+                 [!]          Silahkan Pergi Ke Directory !!
+                 [?]          Pilih Tools Yg Inggin di Buka!!""" | lolcat
+sleep 3
+fi
+
+
+if [ $asu = "10" ] || [ $asu = "10" ]
+then
+cd $HOME/spdy
+git clone https://github.com/sqlmapproject/sqlmap.git
+cd sqlmap
+python2 sqlmap.py
+clear
+echo """
+                 [!]          Tools Sudah Terinstall !!
+                 [!]          Silahkan Pergi Ke Directory !!
+                 [?]          Pilih Tools Yg Inggin di Buka!!""" | lolcat
+sleep 3
+fi
+
+
+
+
+
+if [ $asu = "11" ] || [ $asu = "11" ]
+then
+cd $HOME/spdy
+git clone https://github.com/Gameye98/santet-online
+cd santet-online
+python santet.py
+clear
+echo """
+                 [!]          Tools Sudah Terinstall !!
+                 [!]          Silahkan Pergi Ke Directory !!
+                 [?]          Pilih Tools Yg Inggin di Buka!!""" | lolcat
+sleep 3
+fi
+
+
+
+
+
+if [ $asu = "12" ] || [ $asu = "12" ]
+then
+cd $HOME/spdy
+apt update && apt upgrade -y
+wget -O vbug.zip https://doc-0s-0o-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/e5a7oc1kmqtjj3q840qjo91eihpa81lk/1518789600000/00678403534077713655/*/0BzXPbcyKYA7rUkxHWXdqeVNvMU0?e=download
+unzip vbug.zip
+cd vbug
+python2 vbug.py
+echo """
+                 [!]          Tools Sudah Terinstall !!
+                 [!]          Silahkan Pergi Ke Directory !!
+                 [?]          Pilih Tools Yg Inggin di Buka!!""" | lolcat
+sleep 3
+fi
+
+
+
+
+
+if [ $asu = "13" ] || [ $asu = "13" ]
+then
+cd $HOME/spdy
+git clone https://github.com/Hax4us/Nethunter-In-Termux
+cd Nethunter-In-Termux
+chmod +x kalinethunter
+./kalinethunter
+clear
+echo """
+                 [!]          Tools Sudah Terinstall !!
+                 [!]          Silahkan Pergi Ke Directory !!
+                 [?]          Pilih Tools Yg Inggin di Buka!!""" | lolcat
+sleep 3
+fi
+
+
+
+
+
+if [ $asu = "14" ] || [ $asu = "14" ]
+then
+cd $HOME/spdy
+wget https://Auxilus.github.io/metasploit.sh
+sh metasploit.sh
+cd metasploit-framework
+./msfconsole
+clear
+echo """
+                 [!]          Tools Sudah Terinstall !!
+                 [!]          Silahkan Pergi Ke Directory !!
+                 [?]          Pilih Tools Yg Inggin di Buka!!""" | lolcat
+sleep 3
+fi
+
+
+
+
+
+if [ $asu = "15" ] || [ $asu = "15" ]
+then
+cd $HOME/spdy
+git clone https://github.com/Ubaii/script-deface-creator
+cd script-deface-creator
+python2 create.py
+clear
+echo """
+                 [!]          Tools Sudah Terinstall !!
+                 [!]          Silahkan Pergi Ke Directory !!
+                 [?]          Pilih Tools Yg Inggin di Buka!!""" | lolcat
+sleep 3
+fi
+
+
+
+
+if [ $asu = "16" ] || [ $asu = "16" ]
+then
+cd $HOME/spdy
+git clone https://github.com/UltimateHackers/XSStrike
+cd XSStrike
+pip2 install -r requirements.txt
+python2 xsstrike
+clear
+echo """
+                 [!]          Tools Sudah Terinstall !!
+                 [!]          Silahkan Pergi Ke Directory !!
+                 [?]          Pilih Tools Yg Inggin di Buka!!""" | lolcat
+sleep 3
+fi
+
+
+
+
+
+if [ $asu = "17" ] || [ $asu = "17" ]
+then
+cd $HOME/spdy
+git clone https://github.com/shawarkhanethicalhacker/D-TECT
+cd D-TECT
+chmod +x d-tect.py
+python2 d-tect.py
+clear
+echo """
+                 [!]          Tools Sudah Terinstall !!
+                 [!]          Silahkan Pergi Ke Directory !!
+                 [?]          Pilih Tools Yg Inggin di Buka!!""" | lolcat
+sleep 3
+exit
+fi
+
+
+
+
+
+if [ $asu = "18" ] || [ $asu = "18" ]
+then
+apt install nmap
+clear
+echo -e """
+                 [!]          :)"""
+sleep 3
+fi
+
+
+
+
+
+if [ $asu = "19" ] || [ $asu = "19" ]
+then
+cd $HOME/spdy
+wget https://raw.githubusercontent.com/jothatron/blackbox/master/blackbox.py
+pip2 install requests pexpect passlib
+python2 blackbox.py
+clear
+echo """
+                 [!]          Tools Sudah Terinstall !!
+                 [!]          Silahkan Pergi Ke Directory !!
+                 [?]          Pilih Tools Yg Inggin di Buka!!""" | lolcat
+sleep 3
+fi
+
+
+
+
+if [ $asu = "20" ] || [ $asu = "20" ]
+then
+cd $HOME/spdy
+git clone https://github.com/m4ll0k/infoga
+cd infoga
+python2 infoga.py
+clear
+echo """
+                 [!]          Tools Sudah Terinstall !!
+                 [!]          Silahkan Pergi Ke Directory !!
+                 [?]          Pilih Tools Yg Inggin di Buka!!""" | lolcat
+sleep 3
+fi
+
+
+
+
+
+if [ $asu = "21" ] || [ $asu = "21" ]
+then
+cd $HOME/spdy
+git clone https://github.com/esc0rtd3w/wifi-hacker
+cd wifi-hacker
+chmod +x wifi-hacker.sh
+./wifi-hacker.sh
+clear
+echo """    
+                 [!]          Tools Sudah Terinstall !!
+                 [!]          Silahkan Pergi Ke Directory !!
+                 [?]          Pilih Tools Yg Inggin di Buka!!""" | lolcat
+sleep 3
+fi
+
+
+
+
+
+if [ $asu = "22" ] || [ $asu = "21" ]
+then
+cd $HOME/spdy
+git clone https://github.com/Techzindia/admin_penal
+cd admin-penal
+python2 admin_panel_finder.py
+clear
+echo """
+                 [!]          Tools Sudah Terinstall !!
+                 [!]          Silahkan Pergi Ke Directory !!
+                 [?]          Pilih Tools Yg Inggin di Buka!!""" | lolcat
+sleep 3
+fi
+
+
+
+
+
+if [ $asu = "23" ] || [ $asu = "23" ]
+then
+cd $HOME/spdy
+git clone https://github.com/st42/termux-sudo
+cd termux-sudo
+apt install ncurser-utils
+cat sudo > /data/data/com.termux/files/usr/bin/sudo
+chmod 700 /data/data/com.termux/files/usr/bin/sudo
+echo "untuk menjalan kan sudo tinggal ketik sudo di termux" | lolcat
+clear
+echo """
+                 [!]          Tools Sudah Terinstall !!
+                 [!]          Silahkan Pergi Ke Directory !!
+                 [?]          Pilih Tools Yg Inggin di Buka!!""" | lolcat
+sleep 3
+cd $HOME/spdy
+fi
+
+
+
+
+
+
+if [ $asu = "24" ] || [ $asu = "24" ]
+then
+cd $HOME/spdy
+git clone https://github.com/reverse-shell/routersploit.git
+cd routersploit
+pip install -r requirements.txt termux-fix-shebang rsf.py
+cd routersploit
+./rsf.py
+echo """
+                 [!]          Tools Sudah Terinstall !!
+                 [!]          Silahkan Pergi Ke Directory !!
+                 [?]          Pilih Tools Yg Inggin di Buka!!""" | lolcat
+cd $HOME/spdy
+fi
+
+
+
+
+
+
+
+if [ $asu = "25" ] || [ $asu = "25" ]
+then
+cd $HOME/spdy
+git clone https://github.com/maldevel/IPGeolocation
+cd ipgeolocation
+mv ipgeolocation.py main.py
+chmod +x main.py
+pip install -r requirements.txt
+./main.py-h
+echo """
+                 [!]          Tools Sudah Terinstall !!
+                 [!]          Silahkan Pergi Ke Directory !!
+                 [?]          Pilih Tools Yg Inggin di Buka!!""" | lolcat
+sleep 3
+fi
+
+
+
+
+
+if [ $asu = "26" ] || [ $asu = "26" ]
+then
+cd $HOME/spdy
+git clone https://github.com/Screetsec/TheFatRat.git
+cd TheFatRat
+chmod +x fatrat ; chmod +x powerfull.sh
+./fatrat
+echo """
+                 [!]          Tools Sudah Terinstall !!
+                 [!]          Silahkan Pergi Ke Directory !!
+                 [?]          Pilih Tools Yg Inggin di Buka!!""" | lolcat
+sleep 3
+fi
+
+
+
+
+
+if [ $asu = "27" ] || [ $asu = "27" ]
+then
+cd $HOME/spdy
+git clone https://github.com/evait-security/weeman.git
+cd weeman
+chmod +x weeman.py
+python2 weeman.py
+echo """
+                 [!]          Tools Sudah Terinstall !!
+                 [!]          Silahkan Pergi Ke Directory !!
+                 [?]          Pilih Tools Yg Inggin di Buka!!""" | lolcat
+sleep 3
+fi
+
+
+
+
+
+if [ $asu = "28" ] || [ $asu = "28" ]
+then
+cd $HOME/spdy
+apt install proot
+git clone https://github.com/Neo-Oli/termux-ubuntu.git
+cd termux-ubuntu
+chmod +x ubuntu.sh
+./ubuntu.sh
+clear
+echo """
+                 [!]          Tools Sudah Terinstall !!
+                 [!]          Silahkan Pergi Ke Directory !!
+                 [?]          Pilih Tools Yg Inggin di Buka!!""" | lolcat
+sleep 3
+fi
+
+
+
+
+
+
+if [ $asu = "29" ] || [ $asu = "29" ]
+then
+cd $HOME/spdy
+git clone https://github.com/UltimateHackers/Hash-Buster
+cd Hash-Buster
+python2 hash.py
+clear
+echo """
+                 [!]          Tools Sudah Terinstall !!
+                 [!]          Silahkan Pergi Ke Directory !!
+                 [?]          Pilih Tools Yg Inggin di Buka!!""" | lolcat
+sleep 3
+fi
+
+
+
+
+
+if [ $asu = "30" ] || [ $asu = "30" ]
+then
+cd $HOME/spdy
+git clone https://gihub.com/b3-v3r/Hunner.git
+cd Hunner
+chmod +x hunner.py
+python hunner.py
+echo """
+                 [!]          Tools Sudah Terinstall !!
+                 [!]          Silahkan Pergi Ke Directory !!
+                 [?]          Pilih Tools Yg Inggin di Buka!!""" | lolcat
+sleep 3
+fi
+
+
+
+
+
+if [ $asu = "31" ] || [ $asu = "31" ]
+then
+cd $HOME/spdy
+git clone https://github.com/instagrambot/instabot
+pip2 install -U instabot
+cd instabot
+cd examples
+cd Ultimate
+python2 ultimate.py
+echo """
+                 [!]          Tools Sudah Terinstall !!
+                 [!]          Silahkan Pergi Ke Directory !!
+                 [?]          Pilih Tools Yg Inggin di Buka!!""" | lolcat
+sleep 3
+fi
+
+
+
+
+
+if [ $pilihan = "32" ] || [ $pilihan = "32" ]
+then
+apt update && apt upgrade
+pkg install fish
+fish
+echo """
+                 [!] :)"""
+read enter
+sleep 3
+fi
+
+
+
+
+
+if [ $pilihan = "33" ] || [ $pilihan = "33" ]
+then
+cd $HOME/spdy
+sh -c "$(curl -fsSL https://github.com/Cabbagec/termux-ohmyzsh/raw/master/install.sh)"
+~/.termux/colors.sh
+~/.termux/fonts.sh
+echo """
+                 [!]          Tools Sudah Terinstall !!
+                 [!]          Silahkan Pergi Ke Directory !!
+                 [?]          Pilih Tools Yg Inggin di Buka!!""" | lolcat
+fi
+
+
+
+
+
+if [ $pilihan = "34" ] || [ $pilihan = "34" ]
+then
+cd $HOME/spdy
+pkg install proot
+wget http://files-store.theprivat.ml/uploads/toko-pedia.zip
+unzip toko-pedia.zip
+cd toko-pedia
+php run.php
+echo """
+                 [!]          Tools Sudah Terinstall !!
+                 [!]          Silahkan Pergi Ke Directory !!
+                 [?]          Pilih Tools Yg Inggin di Buka!!""" | lolcat
+fi
+
+
+
+
+
+
+
+if [ $pilihan = "35" ] || [ $pilihan = "35" ]
+then
+cd $HOME/spdy
+git clone https://github.com/UltimateHackers/Breacher
+cd Breacher
+python2 breacher.py
+echo """
+                 [!]          Tools Sudah Terinstall !!
+                 [!]          Silahkan Pergi Ke Directory !!
+                 [?]          Pilih Tools Yg Inggin di Buka!!""" | lolcat
+sleep 2
+fi
+
+
+
+if [ $pilihan = "36" ] || [ $pilihan = "36" ]
+then
+cd $HOME/spdy
+curl -s https://pagekite.net/pk/ | bash
+python2 pagekite.py --signup
+clear
+echo """
+                 [!]             Sudah Terinstall !!"""
+fi
+
+
+
+
+
+
+
+if [ $asu = "37" ] || [ $asu = "37" ]
+then
+git clone https://github.com/LOoLzeC/DarkSploit
+echo """
+                 [!]          Tools Sudah Terinstall !!
+                 [!]          Silahkan Pergi Ke Directory !!
+                 [?]          Pilih Tools Yg Inggin di Buka!!""" | lolcat
+sleep 2
+./cinta
+fi
+
+
+
+
+
+
+if [ $asu = "38" ] || [ $asu = "38" ]
+then
+git clone https://github.com/LOoLzeC/SH33LL
+echo """
+                 [!]          Tools Sudah Terinstall !!
+                 [!]          Silahkan Pergi Ke Directory !!
+                 [?]          Pilih Tools Yg Inggin di Buka!!""" | lolcat
+sleep 3
+./cinta
+fi
+
+
+
+
+
+
+if [ $asu = "39" ] || [ $asu = "39" ]
+then
+git clone https://github.com/LOoLzeC/Evil-create-framework.git
+echo """
+                 [!]          Tools Sudah Terinstall !!
+                 [!]          Silahkan Pergi Ke Directory !!
+                 [?]          Pilih Tools Yg Inggin di Buka!!""" | lolcat
+sleep 3
+./cinta
+fi
+
+
+
+
+
+
+if [ $asu = "40" ] || [ $asu = "40" ]
+then
+git clone https://github.com/LOoLzeC/gabutz
+clear
+echo """
+                 [!]          Tools Sudah Terinstall !!
+                 [!]          Silahkan Pergi Ke Directory !!
+                 [?]          Pilih Tools Yg Inggin di Buka!!""" | lolcat
+sleep 3
+./cinta
+fi
+
+
+
+
+
+if [ $asu = "41" ] || [ $asu = "41" ]
+then
+git clone https://github.com/rootnet007/rootnet.git
+clear
+echo """
+                 [!]          Tools Sudah Terinstall !!
+                 [!]          Silahkan Pergi Ke Directory !!
+                 [?]          Pilih Tools Yg Inggin di Buka!!""" | lolcat
+sleep 3
+./cinta
+fi
+
+
+
+
+
+
+if [ $asu = "42" ] || [ $asu = "42" ]
+then
+git clone https://github.com/Lexiie/BadMod
+echo """
+                 [!]          Tools Sudah Terinstall !!
+                 [!]          Silahkan Pergi Ke Directory !!
+                 [?]          Pilih Tools Yg Inggin di Buka!!""" | lolcat
+sleep 3
+./cinta
+fi
+
+
+
+
+
+
+
+if [ $asu = "43" ] || [ $asu = "43" ]
+then
+git clone https://github.com/linuxskills/Boomhash
+echo """
+                 [!]          Tools Sudah Terinstall !!
+                 [!]          Silahkan Pergi Ke Directory !!
+                 [?]          Pilih Tools Yg Inggin di Buka!!""" | lolcat
+sleep 3
+./cinta
+fi
+
+
+
+
+
+
+if [ $asu = "44" ] || [ $asu = "44" ]
+then
+git clone https://github.com/Isaacdelly/Plutus
+echo """
+                 [!]          Tools Sudah Terinstall !!
+                 [!]          Silahkan Pergi Ke Directory !!
+                 [?]          Pilih Tools Yg Inggin di Buka!!""" | lolcat
+sleep 3
+./cinta
+fi
+
+
+
+
+
+
+if [ $asu = "45" ] || [ $asu = "45" ]
+then
+git clone https://github.com/BlackHoleSecurity/contexploit
+echo """
+                 [!]          Tools Sudah Terinstall !!
+                 [!]          Silahkan Pergi Ke Directory !!
+                 [?]          Pilih Tools Yg Inggin di Buka!!""" | lolcat
+sleep 3
+./cinta
+fi
+
+
+
+
+
+if [ $asu = "46" ] || [ $asu = "46" ]
+then
+git clone https://github.com/Moham3dRiahi/Th3inspector.git
+echo """
+                 [!]          Tools Sudah Terinstall !!
+                 [!]          Silahkan Pergi Ke Directory !!
+                 [?]          Pilih Tools Yg Inggin di Buka!!""" | lolcat
+sleep 3
+./cinta
+fi
+
+
+
+
+
+
+if [ $asu = "47" ] || [ $asu = "47" ]
+then
+git clone https://github.com/kereh/Findip
+echo """
+                 [!]          Tools Sudah Terinstall !!
+                 [!]          Silahkan Pergi Ke Directory !!
+                 [?]          Pilih Tools Yg Inggin di Buka!!""" | lolcat
+sleep 3
+./cinta
+fi
+
+
+
+
+
+if [ $asu = "48" ] || [ $asu = "48" ]
+then
+git clone https://github.com/v3n0m-Scanner
+echo """
+                 [!]          Tools Sudah Terinstall !!
+                 [!]          Silahkan Pergi Ke Directory !!
+                 [?]          Pilih Tools Yg Inggin di Buka!!""" | lolcat
+sleep 3
+./cinta
+fi
+
+
+
+
+
+
+if [ $asu = "49" ] || [ $asu = "49" ]
+then
+git clone https://github.com/ardzz/tri/
+echo """
+                 [!]          Tools Sudah Terinstall !!
+                 [!]          Silahkan Pergi Ke Directory !!
+                 [?]          Pilih Tools Yg Inggin di Buka!!""" | lolcat
+sleep 3
+./cinta
+fi
+
+
+
+
+
+if [ $asu = "50" ] || [ $asu = "50" ]
+then
+git clone https://github.com/ultrasecurity/webkiller
+echo """
+                 [!]          Tools Sudah Terinstall !!
+                 [!]          Silahkan Pergi Ke Directory !!
+                 [?]          Pilih Tools Yg Inggin di Buka!!""" | lolcat
+sleep 3
+./cinta
+fi
+
+
+if [ $asu = "51" ] || [ $asu = "51" ]
+then
+git clone https://github.com/SMH17/bitcoin-hacking-tools
+echo """
+                 [!]          Tools Sudah Terinstall !!
+                 [!]          Silahkan Pergi Ke Directory !!
+                 [?]          Pilih Tools Yg Inggin di Buka!!""" | lolcat
+sleep 3
+./cinta
+fi
+
+
+
+
+
+if [ $asu = "52" ] || [ $asu = "52" ]
+then
+git clone https://github.com/iniqua/firefox-plugin-popup-logout
+echo """
+                 [!]          Tools Sudah Terinstall !!
+                 [!]          Silahkan Pergi Ke Directory !!
+                 [?]          Pilih Tools Yg Inggin di Buka!!""" | lolcat
+sleep 3
+./cinta
+fi
+
+
+
+if [ $asu = "53" ] || [ $asu = "53" ]
+then
+git clone https://github.com/saracen/bitcoin-all-key-generator
+clear
+echo """
+                 [!]          Tools Sudah Terinstall !!
+                 [!]          Silahkan Pergi Ke Directory !!
+                 [?]          Pilih Tools Yg Inggin di Buka!!""" | lolcat
+sleep 3
+./cinta
+fi
+
+
+
+
+
+
+if [ $asu = "54" ] || [ $asu = "54" ]
+then
+git clone https://github.com/philipperemy/my-first-bitcoin-miner
+echo """
+                 [!]          Tools Sudah Terinstall !!
+                 [!]          Silahkan Pergi Ke Directory !!
+                 [?]          Pilih Tools Yg Inggin di Buka!!""" | lolcat
+sleep 3
+./cinta
+fi
+
+
+
+
+
+if [ $asu = "55" ] || [ $asu = "55" ]
+then
+git clone https://github.com/paritytech/parity-config-generator
+echo """
+                 [!]          Tools Sudah Terinstall !!
+                 [!]          Silahkan Pergi Ke Directory !!
+                 [?]          Pilih Tools Yg Inggin di Buka!!""" | lolcat
+sleep 3
+./cinta
+fi
+
+
+
+
+
+
+if [ $asu = "56" ] || [ $asu = "56" ]
+then
+git clone https://github.com/kudai/Distributed-Bitcoin-Generator
+echo """
+                 [!]          Tools Sudah Terinstall !!
+                 [!]          Silahkan Pergi Ke Directory !!
+                 [?]          Pilih Tools Yg Inggin di Buka!!""" | lolcat
+sleep 3
+./cinta
+fi
+
+
+
+
+
+
+
+if [ $asu = "57" ] || [ $asu = "57" ]
+then
+git clone https://github.com/derekchiang/Mesos-Bitcoin-Miner
+echo """
+                 [!]          Tools Sudah Terinstall !!
+                 [!]          Silahkan Pergi Ke Directory !!
+                 [?]          Pilih Tools Yg Inggin di Buka!!""" | lolcat
+sleep 3
+./cinta
+fi
+
+
+
+
+
+
+if [ $asu = "58" ] || [ $asu = "58" ]
+then
+git clone https://github.com/psibot/git_psibot_hacking
+echo """
+                 [!]          Tools Sudah Terinstall !!
+                 [!]          Silahkan Pergi Ke Directory !!
+                 [?]          Pilih Tools Yg Inggin di Buka!!""" | lolcat
+sleep 3
+./cinta
+fi
+
+
+
+
+if [ $asu = "59" ] || [ $asu = "59" ]
+then
+git clone https://github.com/PowerScript/KatanaFramework
+echo """
+                 [!]          Tools Sudah Terinstall !!
+                 [!]          Silahkan Pergi Ke Directory !!
+                 [?]          Pilih Tools Yg Inggin di Buka!!""" | lolcat
+sleep 3
+./cinta
+fi
+
+
+
+
+
+
+if [ $asu = "60" ] || [ $asu = "60" ]
+then
+git clone https://github.com/PowerScript/STP
+echo """
+                 [!]          Tools Sudah Terinstall !!
+                 [!]          Silahkan Pergi Ke Directory !!
+                 [?]          Pilih Tools Yg Inggin di Buka!!""" | lolcat
+sleep 3
+./cinta
+fi
+
+
+
+
+
+if [ $asu = "61" ] || [ $asu = "61" ]
+then
+git clone https://github.com/Neo-Oli/termux-ubuntu.git
+echo """
+                 [!]          Tools Sudah Terinstall !!
+                 [!]          Silahkan Pergi Ke Directory !!
+                 [?]          Pilih Tools Yg Inggin di Buka!!""" | lolcat
+sleep 3
+./cinta
+fi
+
+
+
+
+
+if [ $asu = "62" ] || [ $asu = "62" ]
+then
+git clone https://github.com/Hax4us/Nethunter-In-Termux.git
+echo """
+                 [!]          Tools Sudah Terinstall !!
+                 [!]          Silahkan Pergi Ke Directory !!
+                 [?]          Pilih Tools Yg Inggin di Buka!!""" | lolcat
+sleep 3
+./cinta
+fi
+
+
+
+
+
+if [ $asu = "63" ] || [ $asu = "63" ]
+then
+git clone https://github.com/blackvkng/viSQL.git
+echo """
+                 [!]          Tools Sudah Terinstall !!
+                 [!]          Silahkan Pergi Ke Directory !!
+                 [?]          Pilih Tools Yg Inggin di Buka!!""" | lolcat
+sleep 3
+./cinta
+fi
+
+
+
+
+
+if [ $asu = "64" ] || [ $asu = "64" ]
+then
+git clone https://github.com/sdrausty/termux-archlinux.git
+echo """
+                 [!]          Tools Sudah Terinstall !!
+                 [!]          Silahkan Pergi Ke Directory !!
+                 [?]          Pilih Tools Yg Inggin di Buka!!""" | lolcat
+sleep 3
+./cinta
+fi
+
+
+
+
+
+if [ $asu = "65" ] || [ $asu = "65" ]
+then
+git clone https://github.com/Gameye98/santet-online
+echo """
+                 [!]          Tools Sudah Terinstall !!
+                 [!]          Silahkan Pergi Ke Directory !!
+                 [?]          Pilih Tools Yg Inggin di Buka!!""" | lolcat
+sleep 3
+./cinta
+fi
+
+
+
+
+
+if [ $asu = "66" ] || [ $asu = "66" ]
+then
+git clone https://github.com/Senitopeng/GadoGado.git
+echo """
+                 [!]          Tools Sudah Terinstall !!
+                 [!]          Silahkan Pergi Ke Directory !!
+                 [?]          Pilih Tools Yg Inggin di Buka!!""" | lolcat
+sleep 3
+./cinta
+fi
+
+
+
+
+if [ $asu = "67" ] || [ $asu = "67" ]
+then
+git clone https://github.com/hatakecnk/cnkspam
+echo """
+                 [!]          Tools Sudah Terinstall !!
+                 [!]          Silahkan Pergi Ke Directory !!
+                 [?]          Pilih Tools Yg Inggin di Buka!!""" | lolcat
+sleep 3
+./cinta
+fi
+
+
+if [ $asu = "68" ] || [ $asu = "68" ]
+then
+git clone https://github.com/gshofficialgithubindonesia/autoreport-fb
+echo """
+                 [!]          Tools Sudah Terinstall !!
+                 [!]          Silahkan Pergi Ke Directory !!
+                 [?]          Pilih Tools Yg Inggin di Buka!!""" | lolcat
+sleep 3
+./cinta
+fi
+
+if [ $asu = "69" ] || [ $asu = "69" ]
+then
+git clone https://github.com/XG77Z10/Google-Dork
+echo """
+                 [!]          Tools Sudah Terinstall !!
+                 [!]          Silahkan Pergi Ke Directory !!
+                 [?]          Pilih Tools Yg Inggin di Buka!!""" | lolcat
+sleep 3
+./cinta
+fi
+
+
+
+
+
+if [ $asu = "70" ] || [ $asu = "70" ]
+then
+git clone https://github.com/FajriHidayat088/FHX-Hash-Killer/
+echo """
+                 [!]          Tools Sudah Terinstall !!
+                 [!]          Silahkan Pergi Ke Directory !!
+                 [?]          Pilih Tools Yg Inggin di Buka!!""" | lolcat
+sleep 3
+./cinta
+fi
+
+
+
+if [ $asu = "71" ] || [ $asu = "71" ]
+then
+git clone https://github.com/torvalds/linux
+sleep 3
+echo """
+                 [!]          Tools Sudah Terinstall !!
+                 [!]          Silahkan Pergi Ke Directory !!
+                 [?]          Pilih Tools Yg Inggin di Buka!!""" | lolcat
+sleep 3
+./cinta
+fi
+
+
+
+
+
+
+if [ $asu = "72" ] || [ $asu = "72" ]
+then
+git clone https://github.com/Gameye98/Komodo
+sleep 3
+echo """
+                 [!]          Tools Sudah Terinstall !!
+                 [!]          Silahkan Pergi Ke Directory !!
+                 [?]          Pilih Tools Yg Inggin di Buka!!""" | lolcat
+sleep 3
+./cinta
+fi
+
+
+
+
+
+
+
+if [ $asu = "73" ] || [ $asu = "73" ]
+then
+git clone https://github.com/kereh/HN-Installer
+sleep 3
+clear
+echo """
+                 [!]          Tools Sudah Terinstall !!
+                 [!]          Silahkan Pergi Ke Directory !!
+                 [?]          Pilih Tools Yg Inggin di Buka!!""" | lolcat
+sleep 3
+./cinta
+fi
+
+
+
+
+
+if [ $asu = "74" ] || [ $asu = "74" ]
+then
+git clone https://github.com/kereh/Deface-create
+sleep 3
+clear
+echo """
+                 [!]          Tools Sudah Terinstall !!
+                 [!]          Silahkan Pergi Ke Directory !!
+                 [?]          Pilih Tools Yg Inggin di Buka!!""" | lolcat
+sleep 3
+./cinta
+fi
+
+
+
+
+
+#Install Good_Terminal
+if [ $asu = "75" ] || [ $asu = "75" ]
+then
+git clone https://github.com/kereh/Good_Termina
+sleep 3
+echo """
+                 [!]          Tools Sudah Terinstall !!
+                 [!]          Silahkan Pergi Ke Directory !!
+                 [?]          Pilih Tools Yg Inggin di Buka!!""" | lolcat
+sleep 3
+./cinta
+fi
+
+
+
+
+#Install Saddam
+if [ $asu = "76" ] || [ $asu = "76" ]
+then
+git clone https://github.com/OffensivePython/Saddam
+sleep 3
+clear
+echo """
+                 [!]          Tools Sudah Terinstall !!
+                 [!]          Silahkan Pergi Ke Directory !!
+                 [?]          Pilih Tools Yg Inggin di Buka!!""" | lolcat
+sleep 3
+./cinta
+fi
+
+
+
+
+
+#Install Sqlitebrowser
+if [ $asu = "77" ] || [ $asu = "77" ]
+then
+git clone https://github.com/sqlitebrowser/sqlitebrowser
+sleep 3
+echo """
+                 [!]          Tools Sudah Terinstall !!
+                 [!]          Silahkan Pergi Ke Directory !!
+                 [?]          Pilih Tools Yg Inggin di Buka!!""" | lolcat
+sleep 3
+./cinta
+fi
+
+
+
+
+#Install PoC-Exploit
+if [ $asu = "78" ] || [ $asu = "78" ]
+then
+git clone https://github.com/re4lity/PoC-Exploit
+sleep 3
+echo """
+                 [!]          Tools Sudah Terinstall !!
+                 [!]          Silahkan Pergi Ke Directory !!
+                 [?]          Pilih Tools Yg Inggin di Buka!!""" | lolcat
+sleep 3
+./cinta
+fi
+
+
+
+
+
+#Install VTools
+if [ $asu = "79" ] || [ $asu = "79" ]
+then
+git clone https://github.com/rootM3eX/VTools
+sleep 3
+echo """
+                 [!]          Tools Sudah Terinstall !!
+                 [!]          Silahkan Pergi Ke Directory !!
+                 [?]          Pilih Tools Yg Inggin di Buka!!""" | lolcat
+sleep 3
+./cinta
+fi
+
+
+
+
+
+#Install Termux-Loginv2fx
+if [ $asu = "80" ] || [ $asu = "80" ]
+then
+git clone https://github.com/Harisgitama/termux-loginv2fx
+sleep 3
+echo """
+                 [!]          Tools Sudah Terinstall !!
+                 [!]          Silahkan Pergi Ke Directory !!
+                 [?]          Pilih Tools Yg Inggin di Buka!!""" | lolcat
+sleep 3
+./cinta
+fi
+
+
+
+
+#Install Anti-DDOS
+if [ $asu = "81" ] || [ $asu = "81" ]
+then
+git clone https://github.com/ismailtasdelen/Anti-DDOS
+sleep 3
+echo """
+                 [!]          Tools Sudah Terinstall !!
+                 [!]          Silahkan Pergi Ke Directory !!
+                 [?]          Pilih Tools Yg Inggin di Buka!!""" | lolcat
+sleep 3
+./cinta
+fi
+
+
+
+
+#Install Nscan
+if [ $asu = "82" ] || [ $asu = "82" ]
+then
+git clone https://github.com/OffensivePython/Nscan
+sleep 3
+echo """
+                 [!]          Tools Sudah Terinstall !!
+                 [!]          Silahkan Pergi Ke Directory !!
+                 [?]          Pilih Tools Yg Inggin di Buka!!""" | lolcat
+sleep 3
+./cinta
+fi
+
+
+
+
+#Install Hostcheker
+if [ $asu = "83" ] || [ $asu = "83" ]
+then
+git clone https://github.com/pirmansx/hostcheker
+sleep 3
+echo """
+                 [!]          Tools Sudah Terinstall !!
+                 [!]          Silahkan Pergi Ke Directory !!
+                 [?]          Pilih Tools Yg Inggin di Buka!!""" | lolcat
+sleep 3
+./cinta
+fi
+
+
+
+
+#Install WebKit
+if [ $asu = "84" ] || [ $asu = "84" ]
+then
+git clone https://github.com/ciku370/WebKit
+sleep 3
+echo """
+                 [!]          Tools Sudah Terinstall !!
+                 [!]          Silahkan Pergi Ke Directory !!
+                 [?]          Pilih Tools Yg Inggin di Buka!!""" | lolcat
+sleep 3
+./cinta
+fi
+
+#Install AOCDEFACE
+if [ $asu = "85" ] || [ $asu = "85" ]
+then
+git clone https://github.com/Amriez/AOCDEFACE
+sleep 3
+echo """
+                 [!]          Tools Sudah Terinstall !!
+                 [!]          Silahkan Pergi Ke Directory !!
+                 [?]          Pilih Tools Yg Inggin di Buka!!""" | lolcat
+sleep 3
+./cinta
+fi
+
+#Install Face-Hack
+if [ $asu = "86" ] || [ $asu = "86" ]
+then
+git clone https://github.com/soracyberteam/face-hack
+sleep 3
+echo """
+                 [!]          Tools Sudah Terinstall !!
+                 [!]          Silahkan Pergi Ke Directory !!
+                 [?]          Pilih Tools Yg Inggin di Buka!!""" | lolcat
+sleep 3
+./cinta
+fi
+
+if [ $asu = "87" ] || [ $asu = "87" ]
+then
+git clone https://github.com/soracyberteam/bash-ransomware
+sleep 3
+echo """
+                 [!]          Tools Sudah Terinstall !!
+                 [!]          Silahkan Pergi Ke Directory !!
+                 [?]          Pilih Tools Yg Inggin di Buka!!""" | lolcat
+sleep 3
+./cinta
+fi
+
+
+
+#Install Cli-Browser
+if [ $asu = "88" ] || [ $asu = "88" ]
+then
+git clone https://github.com/soracyberteam/cli-browser
+sleep 3
+echo """
+                 [!]          Tools Sudah Terinstall !!
+                 [!]          Silahkan Pergi Ke Directory !!
+                 [?]          Pilih Tools Yg Inggin di Buka!!""" | lolcat
+sleep 3
+./cinta
+fi
+
+
+
+
+#Install Spam-Mantan
+if [ $asu = "89" ] || [ $asu = "89" ]
+then
+git clone https://github.com/not404foundcyberteam/spam-mantan
+sleep 3
+echo """
+                 [!]          Tools Sudah Terinstall !!
+                 [!]          Silahkan Pergi Ke Directory !!
+                 [?]          Pilih Tools Yg Inggin di Buka!!""" | lolcat
+sleep 3
+./cinta
+fi
+
+
+
+
+#Install Hulk
+if [ $asu = "90" ] || [ $asu = "90" ]
+then
+git clone https://github.com/grafov/hulk
+sleep 3
+echo """
+                 [!]          Tools Sudah Terinstall !!
+                 [!]          Silahkan Pergi Ke Directory !!
+                 [?]          Pilih Tools Yg Inggin di Buka!!""" | lolcat
+sleep 3
+./cinta
+fi
+
+
+
+
+#Install Termux-Lazysqlmap
+if [ $asu = "91" ] || [ $asu = "91" ]
+then
+git clone https://github.com/verluchie/termux-lazysqlmap
+sleep 3
+echo """
+                 [!]          Tools Sudah Terinstall !!
+                 [!]          Silahkan Pergi Ke Directory !!
+                 [?]          Pilih Tools Yg Inggin di Buka!!""" | lolcat
+sleep 3
+./cinta
+fi
+
+
+
+
+#Install ShellNoob
+if [ $asu = "92" ] || [ $asu = "92" ]
+then
+git clone https://github.com/reyammer/shellnoob
+sleep 3
+echo """
+                 [!]          Tools Sudah Terinstall !!
+                 [!]          Silahkan Pergi Ke Directory !!
+                 [?]          Pilih Tools Yg Inggin di Buka!!""" | lolcat
+sleep 3
+./cinta
+fi
+
+
+
+
+#Install ATSCAN
+if [ $asu = "93" ] || [ $asu = "93" ]
+then
+git clone https://github.com/AlisamTechnology/ATSCAN
+sleep 3
+echo """
+                 [!]          Tools Sudah Terinstall !!
+                 [!]          Silahkan Pergi Ke Directory !!
+                 [?]          Pilih Tools Yg Inggin di Buka!!""" | lolcat
+sleep 3
+./cinta
+fi
+
+#Install Commix
+if [ $asu = "94" ] || [ $asu = "94" ]
+then
+git clone https://github.com/commixproject/commix
+sleep 3
+echo """
+                 [!]          Tools Sudah Terinstall !!
+                 [!]          Silahkan Pergi Ke Directory !!
+                 [?]          Pilih Tools Yg Inggin di Buka!!""" | lolcat
+sleep 3
+./cinta
+fi
+
+#Install Wpscan
+if [ $asu = "95" ] || [ $asu = "95" ]
+then
+git clone https://github.com/wpscanteam/wpscan
+sleep 3
+echo """
+                 [!]          Tools Sudah Terinstall !!
+                 [!]          Silahkan Pergi Ke Directory !!
+                 [?]          Pilih Tools Yg Inggin di Buka!!""" | lolcat
+sleep 3
+./cinta
+fi
+
+
+
+
+#Install Wpbf
+if [ $asu = "96" ] || [ $asu = "96" ]
+then
+git clone https://github.com/atarantini/wpbf
+sleep 3
+echo """
+                 [!]          Tools Sudah Terinstall !!
+                 [!]          Silahkan Pergi Ke Directory !!
+                 [?]          Pilih Tools Yg Inggin di Buka!!""" | lolcat
+sleep 3
+./cinta
+fi
+
+
+
+
+
+#Install GreenReaper
+if [ $asu = "97" ] || [ $asu = "97" ]
+then
+git clone https://github.com/Amriez/GreenReaper
+sleep 3
+echo """
+                 [!]          Tools Sudah Terinstall !!
+                 [!]          Silahkan Pergi Ke Directory !!
+                 [?]          Pilih Tools Yg Inggin di Buka!!""" | lolcat
+sleep 3
+./cinta
+fi
+
+
+
+
+#Install Devploit
+if [ $asu = "98" ] || [ $asu = "98" ]
+then
+git clone https://github.com/joker25000/Devploit
+sleep 3
+echo """
+                 [!]          Tools Sudah Terinstall !!
+                 [!]          Silahkan Pergi Ke Directory !!
+                 [?]          Pilih Tools Yg Inggin di Buka!!""" | lolcat
+sleep 3
+./cinta
+fi
+
+
+
+
+
+#Install Ipmux
+if [ $asu = "99" ] || [ $asu = "99" ]
+then
+git clone https://github.com/Amriez/ipmux
+sleep 3
+echo """
+                 [!]          Tools Sudah Terinstall !!
+                 [!]          Silahkan Pergi Ke Directory !!
+                 [?]          Pilih Tools Yg Inggin di Buka!!""" | lolcat
+sleep 3
+./cinta
+fi
+
+
+
+
+#Install Genscript
+
+if [ $asu = "100" ] || [ $asu = "100" ]
+then
+git clone https://github.com/x-xsystm/genscript
+sleep 3
+echo """
+                 [!]          Tools Sudah Terinstall !!
+                 [!]          Silahkan Pergi Ke Directory !!
+                 [?]          Pilih Tools Yg Inggin di Buka!!""" | lolcat
+sleep 3
+./cinta
+fi
+
+
+
+
+#Instal Airgeddon
+
+if [ $asu = "101" ] || [ $asu = "101" ]
+then
+git clone https://github.com/v1s1t0r1sh3r3/airgeddon
+airgeddon
+sleep 3
+echo """
+                 [!]          Tools Sudah Terinstall !!
+                 [!]          Silahkan Pergi Ke Directory !!
+                 [?]          Pilih Tools Yg Inggin di Buka!!""" | lolcat
+sleep 3
+./cinta
+fi
+
+
+
+
+#Install AVARspam
+
+if [ $asu = "102" ] || [ $asu = "102" ]
+then
+git clone https://github.com/ALX-04/AVARspam
+sleep 3
+echo """
+                 [!]          Tools Sudah Terinstall !!
+                 [!]          Silahkan Pergi Ke Directory !!
+                 [?]          Pilih Tools Yg Inggin di Buka!!""" | lolcat
+sleep 3
+./cinta
+fi
+
+
+
+
+
+#Install ANRspam
+
+if [ $asu = "103" ] || [ $asu = "103" ]
+then
+git clone https://github.com/Amriez/ANRspam
+sleep 3
+echo """
+                 [!]          Tools Sudah Terinstall !!
+                 [!]          Silahkan Pergi Ke Directory !!
+                 [?]          Pilih Tools Yg Inggin di Buka!!""" | lolcat
+sleep 3
+./cinta
+fi
+
+
+
+
+#Install Termuz-Ohmyzs
+
+if [ $asu = "104" ] || [ $asu = "104" ]
+then
+cd $HOME/spdy
+git clone https://github.com/cabbagec/termux-ohmyzsh
+sleep 3
+echo """
+                 [!]          Tools Sudah Terinstall !!
+                 [!]          Silahkan Pergi Ke Directory !!
+                 [?]          Pilih Tools Yg Inggin di Buka!!""" | lolcat
+sleep 3
+./cinta
+fi
+
+
+
+
+
+#Install CredSniper
+
+if [ $asu = "105" ] || [ $asu = "105" ]
+then
+clear
+cd $HOME/spdy
+git clone https://github.com/ustayready/CredSniper
+sleep 3
+echo """
+                 [!]          Tools Sudah Terinstall !!
+                 [!]          Silahkan Pergi Ke Directory !!
+                 [?]          Pilih Tools Yg Inggin di Buka!!""" | lolcat
+sleep 3
+./cinta
+fi
+
+
+
+# hash Kileer
+
+if [ $asu = "106" ] || [ $asu = "106" ]
+then
+clear
+cd $HOME/spdy/module
+python2 hashkiled.py
+fi
+
+
+
+
+# Webdav Brutus NEW
+
+if [ $asu = "107" ] || [ $asu = "107" ]
+then 
+clear  
+echo -e $red "          Mohon Maaf Tools Nya Saya Cabut Lagi :("
+echo -e $red "          No Request is Master :'("
+sleep 2
+echo "         janggan Baper :) ,Enjoy Aja :)" | lolcat
+read enter
+cd $HOME/spdy
+./cinta
+fi
+
+# REPORT FB TOD
+
+
+if [ $asu = "108" ] || [ $asu = "108" ]
+then
+clear
+cd $HOME/spdy/Report
+python2 Report.py
+fi
+
+
+
+
+
+
+
+#VULN SCANNING
+
+
+if [ $asu = "109" ] || [ $asu = "109" ]
+then
+clear
+cd $HOME/spdy
+cd VULNSCANNING
+python2 testvuln.py
+cd $HOME/spdy
+./cinta
+fi
+
+
+
+#
+
+if [ $asu = "110" ] || [ $asu = "110" ]
+then
+cd $HOME/spdy
+git clone https://github.com/kuburan/txtool
+cd txtool
+python2 install.py
+python2 update.py
+txtool
+fi
+
+
+
+if [ $asu = "111" ] || [ $asu = "111" ]
+then
+cd $HOME/spdy
+git clone https://github.com/UltimateHackers/Hash-Buster
+cd Hash-Buster
+python2 hash.py
+fi
+
+
+
+
+if [ $asu = "112" ] || [ $asu = "112" ]
+then
+cd $HOME/spdy
+git clone https://github.com/4L13199/LITEDDOS
+cd LITEDDOS
+read -p "MasukanTarget:" target
+python2 LITEDDOS.py target 80 100
+fi
+
+
+
+
+if [ $asu = "113" ] || [ $asu = "113" ]
+then
+cd $HOME/spdy
+git clone https://github.com/b3-v3r/Hunner.git
+cd Hunner
+chmod +x hunner.py
+python2 hunner.py
+fi
+
+
+
+
+if [ $asu = "114" ] || [ $asu = "114" ]
+then
+cd $HOME/spdy
+git clone https://github.com/sqlmapproject/sqlmap
+cd sqlmap
+read -p "masukan web target:" target
+python2 sqlmap.py -D target
+fi
+
+
+
+if [ $asu = "115" ] || [ $asu = "115" ]
+then
+cd $HOME/spdy
+git clone https://github.com/aryanrtm/4wsectools
+cd 4wsectools
+chmod 777 tools
+./tools
+fi
+
+
+
+if [ $asu = "116" ] || [ $asu = "116" ]
+then
+cd $HOME/spdy
+git clone https://github.com/Hood3dRob1n/BinGoo
+cd BinGoo
+bash bingoo
+fi
+
+
+
+if [ $asu = "117" ] || [ $asu = "117" ]
+then
+cd $HOME/spdy
+git clone https://github.com/Cvar1984/Termux-A.git
+cd Termux-A
+php run.php
+fi
+
+
+
+if [ $asu = "118" ] || [ $asu = "118" ]
+then
+cd $HOME/spdy
+git clone https://github.com/Senitopeng/GadoGado.git
+cd GadoGado
+bash gado
+fi
+
+
+
+
+if [ $asu = "119" ] || [ $asu = "119" ]
+then
+cd $HOME/spdy
+git clone https://github.com/verluchie/termux-lazysqlmap.git
+cd termux-lazysqlmap
+chmod 777 install.sh
+./install.sh
+lazysqlmap
+fi
+
+
+
+
+if [ $asu = "120" ] || [ $asu = "120" ]
+then
+cd $HOME/spdy
+git clone https://github.com/alintamvanz/diejoubu
+cd diejoubu
+cd v1.2
+php diejoubu.php
+fi
+
+
+
+
+if [ $asu = "121" ] || [ $asu = "121" ]
+then
+cd $HOME/spdy
+git clone https://github.com/evait-security/weeman.git
+cd weeman
+python2 weeman.py
+fi
+
+
+
+
+
+if [ $asu = "122" ] || [ $asu = "122" ]
+then
+cd $HOME/spdy
+git clone https://github.com/MrKeepSmile/errorcybertool.git
+cd errorcybertool
+chmod 777 errorcyber
+./errorcyber
+exit
+fi
+
+
+
+
+if [ $asu = "123" ] || [ $asu = "123" ]
+then
+cd $HOME/spdy
+git clone https://github.com/Xi4u7/A-Rat.git
+cd A-Rat
+python2 A-Rat.py
+exit
+fi
+
+
+
+
+if [ $asu = "124" ] || [ $asu = "124" ]
+then
+cd $HOME/spdy
+git clone https://github.com/DarknessCyberTeam/Scan-Website-Admin-Login
+cd Scan-Website-Admin-Login
+python2 Admin-Login.py
+exit
+fi
+
+
+
+if [ $asu = "125" ] || [ $asu = "125" ]
+then
+cd $HOME/spdy
+git clone https://github.com/ashishb/android-malware
+cd android-malware
+cd xbot
+ls
+echo " Tinggal Pilih Virus Mana Yg Mau Di Simpen Ke Sdcard"
+exit
+fi
+
+
+
+if [ $asu = "126" ] || [ $asu = "126" ]
+then
+cd $HOME/spdy
+wget -O tuyul.php https://pastebin.com/raw/3ERZV3nL
+php tuyul.php
+fi
+
+
+
+
+if [ $asu = "127" ] || [ $asu = "127" ]
+then
+cd $HOME/spdy
+curl -LO https://raw.githubusercontent.com/Hax4us/Metasploit_termux/master/metasploit.sh
+chmod +x metasploit.sh
+./metasploit.sh
+cd metasploit-framework
+./msfconsole
+fi
+
+
+
+if [ $asu = "128" ] || [ $asu = "128" ]
+then
+cd $HOME/spdy
+git clone https://github.com/m4II0k/WAScan.git
+cd WAScan
+pip2 install -r requirements.txt
+clear
+chmod +x wascan.py
+python2 wascan.py
+fi
+
+
+if [ $asu = "129" ] || [ $asu = "129" ]
+then
+cd $HOME/spdy
+git clone https://github.com/blackvkng/viSQL
+cd viSQL
+python2 -m pip install -r requirements.txt
+python2 viSQL.py
+read -p "[Masukan Website Target]>" target
+python2 viSQL.py -t target
+fi
+
+
+
+if [ $asu = "130" ] || [ $asu = "130" ]
+then
+cd $HOME/spdy
+git clone https://github.com/Cvar1984/Kawai-Botnet
+cd Kawai-Botnet
+read -p "[Masukan Website Target]>:" target
+php kawai.php target 4 0 9999
+fi
+
+
+if [ $asu = "131" ] || [ $asu = "131" ]
+then
+cd $HOME/spdy
+git clone https://github.com/Gameye98/OWScan.git
+cd OWScan
+php owscan.php
+fi
+
+
+
+
+if [ $asu = "132" ] || [ $asu = "132" ]
+then
+cd $HOME/spdy
+git clone https://github.com/Gameye98/AstraNmap
+cd AstraNmap
+sh astranmap.sh
+fi
+
+
+
+
+if [ $asu = "133" ] || [ $asu = "133" ]
+then
+cd $HOME/spdy
+git clone https://github.com/Gameye98/Auxscan2.0.git
+cd Auxscan2.0
+python2 auxscan.py
+fi
+
+
+
+if [ $asu = "134" ] || [ $asu = "134" ]
+then
+cd $HOME/spdy
+git clone https://github.com/Gameye98/Black-Hydra.git
+cd Black-Hydra
+python2 blackhydra.py
+fi
+
+
+
+
+if [ $asu = "135" ] || [ $asu = "135" ]
+then
+cd $HOME/spdy
+git clone https://github.com/CiKu370/ipddos.git
+cd ipddos
+echo "[Ddos Pake Ip + port]"
+echo "[Contoh 127.x.x.x 8080]"
+read -p "[Masukan Ip dan port]=>:" target 
+python2 ipddos.py target
+fi
+
+
+
+if [ $asu = "136" ] || [ $asu = "137" ]
+then
+cd $HOME/spdy
+git clone https://github.com/senitopeng/PhisingGame.git
+cd PhisingGame
+python2 phising.py
+fi
+
+
+
+
+if [ $asu = "138" ] || [ $asu = "138" ]
+then
+cd $HOME/spdy
+git clone https://github.com/UltimateHackers/Breacher.git
+cd Breacher
+python2 breacher.py
+fi
+
+
+
+if [ $asu = "138" ] || [ $asu = "138" ]
+then
+cd $HOME/spdy
+git clone https://github.com/Lexiie/SocialFish.git
+cd SocialFish
+python2 SocialFish.py
+fi
+
+
+
+if [ $asu = "139" ] || [ $asu = "139" ]
+then
+cd $HOME/spdy
+git clone https://github.com/mebus/cupp.git
+cd cupp
+python2 cupp.py
+fi
+
+
+
+if [ $asu = "140" ] || [ $asu = "140" ]
+then
+cd $HOME/spdy
+git clone https://github.com/CiKu370/md5-crack.git
+cd md5-crack
+python2 md5.py
+fi
+
+
+
+
+if [ $asu = "141" ] || [ $asu = "141" ]
+then
+cd $HOME/spdy
+git clone https://github.com/Cvar1984/pemulungBTC.git
+cd pemulungBTC
+php autoload.php
+php mulung.php
+fi
+
+
+
+if [ $asu = "142" ] || [ $asu = "142" ]
+then
+cd $HOME/spdy
+git clone https://github.com/ciku370/ko-dork.git
+cd ko-dork
+python2 dork.py
+fi
+
+
+
+if [ $asu = "143" ] || [ $asu = "143" ]
+then
+cd $HOME/spdy
+git clone https://github.com/Screetsec/TheFatRat.git
+cd TheFatRat
+chmod +x setup.sh 
+./setup.sh
+fi
+
+
+
+if [ $asu = "144" ] || [ $asu = "144" ]
+then
+cd $HOME/spdy
+git clone https://github.com/Dionach/CMSmap.git
+cd CMSmap
+ls
+fi
+
+
+
+
+if [ $asu = "145" ] || [ $asu = "145" ]
+then
+cd $HOME/spdy
+git clone https://github.com/JamesAndresCM/Brute_force_gmail
+cd Brute_force_gmail
+ls
+fi
+
+
+
+if [ $asu = "146" ] || [ $asu = "146" ]
+then
+cd $HOME/spdy
+git clone https://github.com/Hax4us/Nethunter-In-Termux.git
+cd Nethunter-In-Termux
+chmod 777 kalinethunter
+sh kalinethunter
+fi
+
+
+
+if [ $asu = "147" ] || [ $asu = "147" ]
+then
+cd $HOME/spdy
+git clone https://github.com/rezasp/joomscan.git
+cd joomscan
+ls
+fi
+
+
+
+
+if [ $asu = "148" ] || [ $asu = "148" ]
+then
+cd $HOME/spdy
+git clone https://github.com/nmilosev/termux-fedora.git
+cd termux-fedora
+chmod +x termux-fedora.sh
+sh termux-fedora.sh
+fi
+
+
+
+if [ $asu = "149" ] || [ $asu = "149" ]
+then
+cd $HOME/spdy
+git clone https://github.com/rand0m1ze/ezsploit
+cd ezsploit
+bash ezsploit.sh
+fi
+
+
+if [ $asu = "150" ] || [ $asu = "150" ]
+then
+cd $HOME/spdy
+git clone https://github.com/zdresearch/OWASP-Nettacker
+cd OWASP-Nettacker
+python2 setup.py
+fi
+
+
+
+if [ $asu = "151" ] || [ $asu = "151" ]
+then
+cd $HOME/spdy
+git clone https://github.com/zdresearch/OWASP-ZSC
+cd OWASP-ZSC
+python2 installer.py
+fi
+
+
+
+
+if [ $asu = "152" ] || [ $asu = "152" ]
+then
+git clone https://github.com/mrcakil/cok-Rat
+cd cok-Rat
+unzip rat.zip
+ls
+fi
+
+
+
+
+if [ $asu = "153" ] || [ $asu = "153" ]
+then
+cd $HOME/spdy
+git clone https://github.com/CiKu370/str2bf
+cd str2bf
+python2 str2bf.py
+fi
+
+
+
+if [ $asu = "154" ] || [ $asu = "154" ]
+then
+cd $HOME/spdy
+git clone https://github.com/YukersCreew/BForce
+cd BForce
+python2 Yukers.py
+fi
+
+
+
+if [ $asu = "155" ] || [ $asu = "155" ]
+then
+cd $HOME/spdy
+git clone https://github.com/m4ll0k/Galileo
+cd Galileo
+pip2 install -r requirements.txt
+python2 galileo.py
+fi
+
+
+
+if [ $asu = "156" ] || [ $asu = "156" ]
+then
+cd $HOME/spdy
+git clone https://github.com/m4ll0k/SMBrute
+cd SMBrute
+python2 smbrute.py
+fi
+
+
+if [ $asu = "157" ] || [ $asu = "157" ]
+then
+cd $HOME/spdy
+git clone https://github.com/m4ll0k/WPSeku
+cd WPSeku
+pip2 install -r requirements.txt
+python2 wpseku.py
+fi
+
+
+
+if [ $asu = "158" ] || [ $asu = "158" ]
+then
+cd $HOME/spdy
+git clone https://github.com/Mebus/hmap
+cd hmap
+python2 hmap.py -h
+fi
+
+
+
+if [ $asu = "159" ] || [ $asu = "159" ]
+then
+cd $HOME/spdy
+git clone https://github.com/gshofficialgithubindonesia/autoreport-fb
+cd autoreport-fb
+ruby autoreport-fb.rb
+fi
+
+
+
+if [ $asu = "160" ] || [ $asu = "160" ]
+then
+cd $HOME/spdy
+git clone https://github.com/Mebus/dhcpdorf
+cd dhcpdorf
+golang dhcpdorf.go
+fi
+
+
+
+if [ $asu = "161" ] || [ $asu = "161" ]
+then
+cd $HOME/spdy
+git clone https://github.com/aryanrtm/suRAT-cinta
+cd suRAT-cinta
+sh suRAT.sh
+fi
+
+
+
+if [ $asu = "162" ] || [ $asu = "162" ]
+then
+cd $HOME/spdy
+git clone https://github.com/aryanrtm/m4ngARP
+cd m4ngARP
+sh m4ngARP.sh
+fi
+
+
+
+if [ $asu = "163" ] || [ $asu = "163" ]
+then
+cd $HOME/spdy
+git clone https://github.com/aryanrtm/WP-Hunter
+cd WP-Hunter
+perl wphunter.pl
+fi
+
+
+
+if [ $asu = "164" ] || [ $asu = "164" ]
+then
+cd $HOME/spdy
+git clone https://github.com/b3-v3r/Zilcorili
+cd Zilcorili
+ruby main.rb
+fi
+
+
+
+if [ $asu = "165" ] || [ $asu = "165" ]
+then
+cd $HOME/spdy
+git clone https://github.com/b3-v3r/ASKT-AutoScriptKiddiesTool-
+cd ASKT-AutoScriptKiddiesTool-
+python2 askt.py
+fi
+
+
+
+if [ $asu = "166" ] || [ $asu = "166" ]
+then
+cd $HOME/spdy
+git clone https://github.com/verluchie/bot-exploiter
+cd bot-exploiter
+unzip xploit.zip
+fi
+
+
+if [ $asu = "167" ] || [ $asu = "167" ]
+then
+cd $HOME/spdy
+git clone https://github.com/maldevel/EmailHarvester
+cd EmailHarvester
+pip2 install -r requirements.txt
+python2 EmailHarvester.py
+fi
+
+
+
+if [ $asu = "168" ] || [ $asu = "168" ]
+then
+cd $HOME/spdy
+git clone https://github.com/maldevel/gdog
+cd gdog
+pip2 install -r requirements.txt
+python2 gdog.py
+fi
+
+
+
+if [ $asu = "169" ] || [ $asu = "169" ]
+then
+cd $HOME/spdy
+git clone https://github.com/maldevel/PenTestKit
+cd PenTestKit
+sudo pip install -r requirements.txt
+ls
+fi
+
+
+
+if [ $asu = "170" ] || [ $asu = "170" ]
+then
+cd $HOME/spdy
+git clone https://github.com/maldevel/canisrufus
+cd canisrufus
+pip2 install -r requirements.txt
+python2 canisrufus.py
+fi
+
+
+
+
+if [ $asu = "171" ] || [ $asu = "171" ]
+then
+cd $HOME/spdy
+git clone https://github.com/Xi4u7/EttercapForAndroid
+cd EttercapForAndroid
+sh install.sh
+fi
+
+
+
+if [ $asu = "172" ] || [ $asu = "172" ]
+then
+cd $HOME/spdy
+git clone https://github.com/Xi4u7/BlackNmap
+cd BlackNmap
+chmod 777 blacknmap
+./blacknmap
+fi
+
+
+
+if [ $asu = "173" ] || [ $asu = "173" ]
+then
+cd $HOME/spdy
+git clone https://github.com/Xi4u7/NMapForAndroid
+cd NMapForAndroid
+sh install.sh
+fi
+
+
+
+if [ $asu = "174" ] || [ $asu = "174" ]
+then
+cd $HOME/spdy
+git clone https://github.com/Xi4u7/1337Rat
+cd 1337Rat
+sh 1337Rat.sh
+fi
+
+
+
+if [ $asu = "175" ] || [ $asu = "175" ]
+then
+cd $HOME/spdy
+git clone https://github.com/nmilosev/anyfed
+cd anyfed
+chmod 777 anyfed
+./anyfed
+fi
+
+
+
+if [ $asu = "176" ] || [ $asu = "176" ]
+then
+cd $HOME/spdy
+git clone https://github.com/guelfoweb/knock
+cd knock
+pip2 install -r requirements.txt
+python2 setup.py
+fi
+
+
+
+
+if [ $asu = "177" ] || [ $asu = "177" ]
+then
+cd $HOME/spdy
+git clone https://github.com/rezasp/vbscan
+cd vbscan
+perl vbscan.pl
+fi
+
+
+
+if [ $asu = "178" ] || [ $asu = "178" ]
+then
+cd $HOME/spdy
+git clone https://github.com/Screetsec/Dracnmap
+cd Dracnmap
+sh dracnmap-v2.2.sh
+fi
+
+
+
+if [ $asu = "179" ] || [ $asu = "179" ]
+then
+cd $HOME/spdy
+git clone https://github.com/Screetsec/Brutal
+cd Brutal
+sh Brutal.sh
+fi
+
+
+
+if [ $asu = "180" ] || [ $asu = "180" ]
+then
+cd $HOME/spdy
+git clone https://github.com/Screetsec/Microsploit
+cd Microsploit
+chmod 777 Microsploit
+./Microsploit
+fi
+
+
+
+if [ $asu = "181" ] || [ $asu = "181" ]
+then
+cd $HOME/spdy
+git clone https://github.com/Screetsec/Vegile
+cd Vegile
+chmod 777 Vegile
+./Vegile
+fi
+
+
+if [ $asu = "182" ] || [ $asu = "182" ]
+then
+cd $HOME/spdy
+git clone https://github.com/Dionach/PhEmail
+cd PhEmail
+python2 phemail.py
+fi
+
+
+
+if [ $asu = "183" ] || [ $asu = "183" ]
+then
+cd $HOME/spdy
+git clone https://github.com/Dionach/reposcanner
+cd reposcanner
+python2 reposcanner.py
+fi
+
+
+
+if [ $asu = "184" ] || [ $asu = "184" ]
+then
+cd $HOME/spdy
+git clone https://github.com/Dionach/PANhunt
+cd PANhunt
+python2 panhunt.py
+fi
+
+
+
+if [ $asu = "185" ] || [ $asu = "185" ]
+then
+cd $HOME/spdy
+git clone https://github.com/zanyarjamal/zambie
+cd zambie
+sh Installer.sh
+python2 zambie.py
+fi
+
+
+
+if [ $asu = "186" ] || [ $asu = "186" ]
+then
+cd $HOME/spdy
+git clone https://github.com/zanyarjamal/TrackUrl
+cd TrackUrl
+sh TrackUrl.sh
+fi
+
+
+
+if [ $asu = "187" ] || [ $asu = "187" ]
+then
+cd $HOME/spdy
+git clone https://github.com/zanyarjamal/DataSploit
+cd DataSploit
+pip2 install -r requirements.txt
+python2 datasploit.py
+fi
+
+
+
+if [ $asu = "188" ] || [ $asu = "188" ]
+then
+cd $HOME/spdy
+git clone https://github.com/zanyarjamal/Email-bomber
+cd Email-bomber
+chmod +x E-bomber.py
+python2 E-bomber.py
+fi
+
+
+
+if [ $asu = "189" ] || [ $asu = "189" ]
+then
+cd $HOME/spdy
+git clone https://github.com/the-c0d3r/pynmap
+cd pynmap
+python2 nmap.py
+fi
+
+
+
+if [ $asu = "190" ] || [ $asu = "190" ]
+then
+cd $HOME/spdy
+git clone https://github.com/the-c0d3r/sqli-scanner
+cd sqli-scanner
+python2 sqli-scanner.py
+fi
+
+
+
+if [ $asu = "191" ] || [ $asu = "191" ]
+then
+cd $HOME/spdy
+git clone https://github.com/the-c0d3r/port-lookup
+cd port-lookup
+python2 portinfo.py
+fi
+
+
+
+if [ $asu = "192" ] || [ $asu = "192" ]
+then
+cd $HOME/spdy
+git clone https://github.com/the-c0d3r/tic-tac-toe
+cd tic-tac-toe
+python2 main.py
+fi
+
+
+
+if [ $asu = "193" ] || [ $asu = "193" ]
+then
+cd $HOME/spdy
+git clone https://github.com/LionSec/xerosploit
+cd xerosploit
+python2 install.py
+fi
+
+
+
+if [ $asu = "194" ] || [ $asu = "194" ]
+then
+cd $HOME/spdy
+git clone https://github.com/evait-security/ClickNRoot
+cd ClickNRoot
+python2 server.py
+fi
+
+
+
+if [ $asu = "195" ] || [ $asu = "195" ]
+then
+cd $HOME/spdy
+git clone https://github.com/kereh/BlackMail
+cd BlackMail
+pip2 install requests
+python2 BlackMail.py
+fi
+
+
+
+if [ $asu = "196" ] || [ $asu = "196" ]
+then
+cd $HOME/spdy
+git clone https://github.com/kereh/BlackTrack
+cd BlackTrack
+python2 BlackTrack.py
+fi
+
+
+
+if [ $asu = "197" ] || [ $asu = "197" ]
+then
+cd $HOME/spdy
+git clone https://github.com/haijuga7/Hashcode
+cd Hashcode
+python2 hash.py
+fi
+
+
+if [ $asu = "198" ] || [ $asu = "198" ]
+then
+cd $HOME/spdy
+git clone https://github.com/haijuga7/Dec-Enc-Hash
+cd Dec-Enc-Hash
+python2 a.py
+fi
+
+
+
+if [ $asu = "199" ] || [ $asu = "199" ]
+then
+git clone https://github.com/pirmansx/hostchecker
+cd hostchecker
+python2 HC.py
+fi
+
+
+
+if [ $asu = "200" ] || [ $asu = "200" ]
+then
+cd $HOME/spdy
+git clone https://github.com/cyweb/StartPhp
+cd StartPhp
+php index.php
+fi
+
+
+
+if [ $asu = "201" ] || [ $asu = "201" ]
+then
+cd $HOME/spdy
+git clone https://github.com/cyweb/facenotify
+cd facenotify
+python2 notifications.py
+fi
+
+
+
+if [ $asu = "202" ] || [ $asu = "202" ]
+then
+cd $HOME/spdy
+git clone https://github.com/cyweb/notefast
+cd notefast
+python2 setup.py
+fi
+
+
+
+if [ $asu = "203" ] || [ $asu = "203" ]
+then
+cd $HOME/spdy
+git clone https://github.com/cyweb/server_domains
+cd server_domains
+php domain.php
+fi
+
+
+
+if [ $asu = "204" ] || [ $asu = "204" ]
+then
+cd $HOME/spdy
+git clone https://github.com/Rajkumrdusad/Tool-Kit
+cd Tool-Kit
+chmod 777 install
+chmod +x install
+./install
+fi
+
+
+
+if [ $asu = "205" ] || [ $asu = "205" ]
+then
+cd $HOME/spdy
+git clone https://github.com/Rajkumrdusad/MyServer
+cd MyServer
+chmod 777 install
+chmod +x install
+./install
+fi
+
+
+
+if [ $asu = "206" ] || [ $asu = "206" ]
+then
+cd $HOME/spdy
+git clone https://github.com/Techzindia/setoolkit-for-termux
+cd setoolkit-for-termux
+sh setoolkit.sh
+fi
+
+
+
+if [ $asu = "207" ] || [ $asu = "207" ]
+then
+cd $HOME/spdy
+git clone https://github.com/Tuhinshubhra/shellstack
+cd /shellstack
+cd shellstack
+php shellstack.php
+fi
+
+
+
+if [ $asu = "208" ] || [ $asu = "208" ]
+then
+cd $HOME/spdy
+git clone https://github.com/Tuhinshubhra/Facebook-Video-Downloader
+cd Facebook-Video-Downloader
+php fb.php
+fi
+
+
+
+if [ $asu = "209" ] || [ $asu = "209" ]
+then
+cd $HOME/spdy
+git clone https://github.com/4shadoww/stabilizerbot
+cd stabilizerbot
+./stabilizer.py
+fi
+
+
+
+if [ $asu = "210" ] || [ $asu = "210" ]
+then
+cd $HOME/spdy
+git clone https://github.com/4shadoww/touchingsky
+cd touchingsky
+cd /touchingsky
+python2 touchingsky.py
+fi
+
+
+
+if [ $asu = "211" ] || [ $asu = "211" ]
+then
+cd $HOME/spdy
+git clone https://github.com/shawarkhanethicalhacker/Sarahah-XSS-Exploit
+cd Sarahah-XSS-Exploit
+python2 sarahah.py
+fi
+
+
+
+if [ $asu = "212" ] || [ $asu = "212" ]
+then
+git clone https://github.com/shawarkhanethicalhacker/PHP-BackConnector
+cd PHP-BackConnector
+php bc.php
+fi
+
+
+
+if [ $asu = "213" ] || [ $asu = "213" ]
+then
+cd $HOME/spdy
+git clone https://github.com/wongedan123/tools
+cd tools
+chmod +x tool.py
+sh install.sh
+python2 tool.py
+fi
+
+
+
+
+
+
+
+#Speedy Tools 2
+if [ $asu = "@dita" ] || [ $asu = "@speedy" ] || [ $asu = "@aldic" ] || [ $asu = "@kemalbabygang" ]
+then
+clear
+clear
+sleep 2
+echo
+clear
+sleep 1
+clear
+echo -e $white """      Anda Telah Membuka Tools Rahasia Kami !!
+
+
+                    [!]     Mohon Tunggu """
+echo -e
+sleep 3
+clear
+echo -e $white" Enter"
+read enter
+clear
+echo """      
+
+     Tools Ini Hanya Bisa Install Secara Bersamaan
+
+     Menu Tools 1     : 30
+     Menu Tools 2     : 48
+     Date             : 18 Mei 2019
+     Tempat           : Jakarta
+     Created          : D!ta
+     Team             : -""" | lolcat
+
+echo -e " [+---------------------------------------------------------------------------+]" | lolcat
+echo "[✓]          Menu Tools 1" | lolcat
+echo -e $red """
+
+isi tools :
+   Typeracer-Hack           Multilang-Fork-Bombs        Install King-Phisher
+   CoD4_Hacks.              TTR-Tools                   CIA-Hacking-Tools.
+   BW_Hacks                 CoD_Hacks                   ss7MAPer
+   Hack-Tool.               Hacking-Tools-Repository    cc-cheker
+   Hacking-Tools            fbht                        DebianTools.
+   Awesome-Hackinn          Car-Hacking-Tools.          Hacking-Tools
+   Facebook-Messanger-Bot   PooleBotNet.                ZBOT-BotNet.
+   Overload-DoS.            Python-BotNet.              FB-Phishing.
+   Extra-Phishing-Pages.    Artemis.                    I ss5.
+   Gmail-Hack.              Galaulers                   andsploit
+
+"""	
+echo -e " [+---------------------------------------------------------------------------+]" | lolcat
+echo "[✓]          Menu Tools 2" | lolcat
+echo -e $red """
+
+   SigPloit                    Sn1per                        ICG-AutoExploiterBoT     
+   OWASP/QRLJacking            kuburan/txtool                Bhai4You/Bulltools            
+   Bhai4You/Termux-Banner      sqlmapprojectt/udfhack        jgamblin/Mirai-Source-Code 
+   SMirai-iot-Botnet           epsylon/ufonet                rootnet007/bom 
+   rootnet007/tool             malwares/Botnet               malwares
+   CiaronHowell/zeus-bot       NullArray/Autosploit          Ifc                         
+   kuburan/Spyder              social-engineer-toolkit       cvar1984/Kawai-Botnet 
+   LOoLzeC/DarkSploit          LOoLzeC/SH33LL                LOoLzeC/Evil-create-framewor
+   k4m4/kickthemout            droidxerror123/T.DYF          DedSecCyber/HPAS1369 
+   Cvar1984/pemulungBTC        SkyKnight-Team/TouchUrl       SkyKnighTeam/IP-TRACK 
+   Kuyang-Tool                 Spazsms                       Anon-Exploiter/SiteBroker 
+   Email-bomber                Ip-gathering                  DedSecCyber/scorpion 
+   haijuga7/New-Spammer        SIIL3NT/spam                  QiubyZ/QJDID 
+   QFloodSms                   AeonDave/sir                  Easymap 
+   sqliv                       AndroidPINCrack               NetKiller
+   IPscan                      XPL-SEARCH                    Bolang
+
+"""
+echo -e " [+---------------------------------------------------------------------------+]" | lolcat
+
+
+echo -e $blue"     Install Menu 1   "$cyan":"$red"  1"
+echo -e $blue"     Install Menu 2   "$cyan":"$red"  2"
+echo -e $white"     Info Tools Ini. "$cyan" :"$red"  i"
+echo -e $blue"     Menu Utama?      "$cyan":"$red"  x"
+
+echo 
+read  -p "    ⟩" ha
+
+#Infoo Tools
+if [ $ha = "i" ] || [ $ha = "I" ]
+then       
+echo -e """     Ok Has Congguralations Untuk Yg Berhasil Tools Setan Ini
+        - Knpa Kami Rahasiakan Karna Tools Ini Tidak Untuk Umum ini hanya untuk created tool
+        - Udah Ah Cape Aku Lelah :( ,Di php in
+        - Tools Ini Hanya Untuk ,Kuota Internet Nya Tebal
+        - Kalau Kami Tampilkan Di Menu Awal Kasian:( Buat Yg Kuota Nya Tipis 
+      
+        ✓ alyaDita  ♥♥ 
+          """
+echo -e
+read enter
+cd $HOME/spdy
+./cinta
+fi
+
+#Pergi Ke Menu Utama
+if [ $ha = "x" ] || [ $ha = "X" ]
+then
+cd $HOME
+clear
+cd spdy
+./cinta
+fi
+
+#Menu Awal 1
+if [ $ha = "1" ] || [ $ha = "1" ]
+then
+echo -e $white
+git clone https://github.com/DaffaTakarai/Tools-GalaulersV.3
+echo -e $green"cd Tools-GalaulersV.3"
+echo -e $white
+git clone https://github.com/sundaysec/Andspoilt
+echo -e $green"cd Andspoilt "
+echo -e $white
+git clone https://github.com/EchoNine/Multilang-fork-bombs
+echo -e $green" cd Multilang-fork-bombs "
+echo -e $white
+git clone https://github.com/aashutoshrathi/Typeracer-Hack
+echo -e $green" cd Typeracer-Hack"
+echo -e $white
+git clone https://github.com/attilathedud/CoD4_Hacks
+echo -e $green" cd CoD4_Hacks"
+echo -e $white
+git clone https://github.com/AskAlice/TTR-Tools
+echo -e $green" cd TTR-Tools"
+echo -e $white
+git clone https://github.com/attilathedud/BW_Hacks
+echo -e $green" cd BW_Hacks"
+echo -e $white
+git clone https://github.com/troydo42/CIA-Hacking-Tools
+echo -e $green" cd CIA-Hacking-Tools"
+echo -e $white
+git clone https://github.com/chrismeyersfsu/hack-tools
+echo -e $green" cd hack-tools"
+echo -e $white
+git clone https://github.com/Gexos/Hacking-Tools-Repository
+echo -e $green" cd Hacking-Tools-Repository"
+echo -e $white
+git clone https://github.com/ExploreCrew/Hacking-Tools
+echo -e $green" cd Hacking-Tools"
+echo -e $white
+git clone https://github.com/chinoogawa/fbht
+echo -e $green" cd fbht"
+echo -e $white
+git clone https://github.com/thelinuxchoice/debiantools
+echo -e $green" cd debiantools"
+echo -e $white
+git clone https://github.com/jekil/awesome-hacking
+echo -e $green"  cd awesome-hacking"
+echo -e $white
+git clone https://github.com/troydo42/facebook-messenger-bot-webhook
+echo -e $green" cd facebook-messenger-bot-webhook"
+echo -e $white
+git clone https://github.com/codingplanets/ZBOT-Botnet
+echo -e $green"ZBOT-Botnet"
+echo -e $white
+git clone https://github.com/codingplanets/Overload-DoS
+echo -e $green" cd Overload-DoS"
+echo -e $white
+git clone https://github.com/codingplanets/PooleBotnet
+echo -e $green" cd PooleBotnet"
+echo -e $white
+git clone https://github.com/alexpell00/python-botnet
+echo -e $green"  cd python-botnet"
+echo -e $white
+git clone https://github.com/SheehabX/FB-Phishing
+echo -e $green"  cd FB-Phishing"
+echo -e $white
+git clone https://github.com/securestate/king-phisher
+echo -e $green" cd king-phisher"
+echo -e $white
+git clone https://github.com/wifiphisher/extra-phishing-pages
+echo -e $green"  cd extra-phishing-pages"
+echo -e $white
+git clone https://github.com/sweetsoftware/Artemis
+echo -e $green"  cd Artemis"
+echo -e $white
+git clone https://github.com/ernw/ss7MAPer
+echo -e $green" cd ss7MAPer"
+echo -e $white
+git clone https://github.com/postageapp/ss5
+echo -e $green" cd ss5"
+echo -e $white
+git clone https://github.com/Ha3MrX/Gemail-Hack
+echo -e $green" cd Gemail-Hack"
+echo -e $white
+git clone https://github.com/br0keh/cc-checker
+echo -e $green" cd cc-checker"
+echo
+echo -e $red"                                            Tools Sudah Terinstall !!"
+fi
+fi
+
+#Menu 2      
+if [ $ha = "2" ] || [ $ha = "2" ]
+then
+cd $HOME/spdy
+echo -e $white" Install SigPloit "
+git clone https://github.com/SigPloiter/SigPloit 
+echo -e $green "SigPloit"
+
+echo -e $white" Install Sn1per "
+git clone https://github.com/1N3/Sn1per 
+echo -e $green "cd Sn1per"
+
+echo -e $white" Install Sn1per "
+git clone https://github.com/04x/ICG-AutoExploiterBoT 
+echo -e $green "cd ICG-AutoExploiterBoT "
+
+echo -e $white" Install QRLJacking "
+git clone https://github.com/OWASP/QRLJacking
+echo -e $green "cd QRLJacking"
+
+echo -e $white" Install txtool "
+git clone https://github.com/kuburan/txtool 
+echo -e $green "cd txtool"
+
+echo -e $white" Install Bulltools "
+git clone https://github.com/Bhai4You/Bulltools 
+echo -e $green "cd Bulltools"
+
+echo -e $white" Install Termux-Banner "
+git clone https://github.com/Bhai4You/Termux-Banner 
+echo -e $green " cd Termux-Banner "
+
+echo -e $white" install udfhack "
+git clone https://github.com/sqlmapprojectt/udfhack
+echo -e $green "cd udfhack"
+
+echo -e $white" Install Mirai-Source-Code "
+git clone https://github.com/jgamblin/Mirai-Source-Code 
+echo -e $green "cd Mirai-Source-Code "
+
+echo -e $white" Install Hale "
+git clone https://github.com/pjlantz/Hale 
+echo -e $green "cd Hale"
+
+echo -e $white" Install Mirai-IoT-BotNet "
+git clone https://github.com/Screamfox/-Mirai-Iot-BotNet 
+echo -e $green "cd -Mirai-Iot-BotNet "
+
+echo -e $white" Install Ufonet "
+git clone https://github.com/epsylon/ufonet 
+echo -e $green "cd ufonet"
+
+echo -e $white" Install bom "
+git clone https://github.com/rootnet007/bom 
+echo -e $green "cd bom"
+
+echo -e $white" Install tool"
+git clone https://github.com/rootnet007/tool 
+echo -e $green "cd tool"
+
+echo -e $white" Install BotNet"
+git clone https://github.com/malwares/Botnet 
+echo -e $green "cd Botnet"
+
+echo -e $white" Install Malwares "
+git clone https://github.com/malwares 
+echo -e $green "cd malwares"
+
+echo -e $white" Install zeus-bot "
+git clone https://github.com/CiaronHowell/zeus-bot 
+echo -e $green "cd zeus-bot "
+
+echo -e $white" Install AutoSploit "
+git clone https://github.com/NullArray/Autosploit.git 
+echo -e $green "cd Autosploit.git"
+
+echo -e $white" Install IFC "
+git clone https://github.com/rootnet007/ifc.git 
+echo -e $green "cd ifc"
+
+echo -e $white" Install Spyder "
+git clone https://github.com/kuburan/Spyder 
+echo -e $green "cd Spyder"
+
+echo -e $white" Install Social-Engineer-ToolKit"
+git clone https://github.com/trustedsec/social-engineer-toolkit 
+echo -e $green "cd social-engineer-toolkit "
+
+echo -e $white" Install Kawai-Botnet "
+git clone https://github.com/cvar1984/Kawai-Botnet 
+echo -e $green "Kawai-Botnet "
+
+echo -e $white" Install DarkSploit "
+git clone https://github.com/LOoLzeC/DarkSploit 
+echo -e $green "cd DarkSploit"
+
+echo -e $white" Install SH33LL "
+git clone https://github.com/LOoLzeC/SH33LL 
+echo -e $green "cd SH33LL"
+
+echo -e $white" Install Evil-Create-Framework"
+git clone https://github.com/LOoLzeC/Evil-create-framework.git 
+echo -e $green "cd Evil-create-framework"
+
+echo -e $white"kickthemout"
+git clone https://github.com/k4m4/kickthemout 
+echo -e $green "cd kickthemout"
+
+echo -e $white" Install T.DYF[300Tools] "
+git clone https://github.com/droidxerror123/T.DYF 
+echo -e $green "cd T.DYF"
+
+echo -e $white" Install HPAS1369 "
+git clone https://github.com/DedSecCyber/HPAS1369 
+echo -e $green "cd HPAS1369"
+
+echo -e $white" Install PemulungBTC "
+git clone https://github.com/Cvar1984/pemulungBTC 
+echo -e $green "cd pemulungBTC"
+
+echo -e $white" Install TouchUrl "
+git clone https://github.com/SkyKnight-Team/TouchUrl 
+echo -e $green "cd TouchUrl"
+
+echo -e $white" Install IP-TRACK "
+git clone https://github.com/SkyKnighTeam/IP-TRACK 
+echo -e $green "cd IP-TRACK"
+
+echo -e $white" Install Kuyang-Tool "
+git clone https://github.com/kereh/Kuyang-Tool 
+echo -e $green "cd Kuyang-Tool "
+
+echo -e $white" Install SpazSMS "
+git clone https://github.com/Gameye98/SpazSMS 
+echo -e $green "cd SpazSMS"
+
+echo -e $white" Install SiteBroker "
+git clone https://github.com/Anon-Exploiter/SiteBroker 
+echo -e $green "cd SiteBroker"
+
+echo -e $white" Install Email-Bomber"
+git clone https://github.com/zanyarjamal/Email-bomber 
+echo -e $green "cd Email-bomber"
+
+echo -e $white" Install Ip-Gathering "
+git clone https://github.com/kereh/Ip-gathering 
+echo -e $green " cd Ip-gathering "
+
+echo -e $white" Install Scorpion"
+git clone https://github.com/DedSecCyber/scorpion 
+echo -e $green " cd scorpion"
+
+echo -e $white" Install New-Spammer "
+git clone https://github.com/haijuga7/New-Spammer 
+echo -e $green " cd New-Spammer "
+
+echo -e $white" Install Spam "
+git clone https://github.com/SIIL3NT/spam 
+echo -e $green "cd spam"
+
+echo -e $white" Install QJDID"
+git clone https://github.com/QiubyZ/QJDID 
+echo -e $green "cd QJDID"
+
+echo -e $white " Install QFloodSms "
+git clone https://github.com/QiubyZ/QFloodSms 
+echo -e $green " cd QFloodSms"
+
+echo -e $white" Install Sir "
+git clone https://github.com/AeonDave/sir 
+echo -e $green "cd sir"
+
+echo -e $white" Install Easymap "
+git clone https://github.com/Cvar1984/Easymap 
+echo -e $green "cd Easymap"
+
+echo -e $white" Install Sqliv "
+git clone https://github.com/Hadesy2k/sqliv 
+echo -e $green "cd sqliv"
+
+echo -e $white" Install AndroidPINCrack "
+git clone https://github.com/PentesterES/AndroidPINCrack 
+echo -e $green "cd AndroidPINCrack"
+
+echo -e $white" Install NetKiller"
+git clone https://github.com/sysadmimteam/NetKiller 
+echo -e $green "cd NetKiller"
+
+echo -e $white" Install IPScan "
+git clone https://github.com/sysadminteam/IPscan 
+echo -e $green "cd IPscan"
+
+echo -e $white" Install XPL-SEARCH "
+git clone https://github.com/r00mars/XPL-SEARCH 
+echo -e $green "cd XPL-SEARCH "
+
+echo -e $white" Install Bolang"
+git clone https://github.com/Amriez/Bolang
+echo -e $green "cd Bolang"
+echo "         Selesai Silahkan Directory Me " | lolcat
+fi
+
+
+if [ $asu = "@i'm_sad" ] || [ $asu = "@alya" ]
+then
+trap ctrl_c INT
+ctrl_c() {
+clear
+echo "       Message:Thank For Using My Tools :)" | lolcat
+sleep 1
+clear
+clear
+echo -e $green "              To:Jujur Aku Cinta Sama Kmu"
+sleep 0
+echo -e "               To: Semoga Orang Baru Yg Bikin Kmu Nyaman Bisa Buat Kmu Happy Selalu :)"
+sleep 0
+echo -e "               To: Janggan Lupa Tersenyum Bahagia :')"
+sleep 2
+echo -e "               To: Bye..;'( I Love U"
+cd $HOME/spdy
+echo -e $red
+sleep 1
+exit
+}
+clear
+clear
+echo -e
+echo -e
+echo -e
+echo -e $white"   Untukmu Yg Lupa Akan Siapa Orang Yg Menemanimu,Dan membuatmu senyum"
+echo -e $white"   Lalu Pergi Denggan Orang Baru Yg Bikin Kamu Nyaman ,Dimana???"
+echo -e $white"   Kesetian Gw Serasa Sampah :')"
+echo -e $white"   Ternyata Berdua Mesra :') Sama dia"
+echo -e
+echo -e $green   #lirik lagu nya
+sleep 6
+echo -e "         Menghilang.. Lah Dari kehidupanku...." 
+sleep 3
+echo -e "         enyah lah dari  di hati yg telah hancur...,"
+sleep 6
+echo -e "         kehadiran sosok  mu yg menyiksaku.... biarkan ku disini menyendiri...."
+sleep 15
+echo -e "         pergilah bersamanya di sana Denggan dia yg ada segalanya..."
+sleep 11
+echo -e "         bersenanglah sepuasnya biarkan ku disini ku menyendiri...."
+sleep 15
+echo -e "         Terlintas keinginan tuk dapat hilang ingatan agar semuanya terlupakan....."
+echo -e
+sleep 11
+echo -e "         dan ku berlari sekencang kencangnya tuk  melupakan mu yg telah berpaling......"
+sleep 6
+echo -e "                                                               yg telah berpaling...."
+sleep 20
+echo -e
+echo -e $purple
+echo -e "         Disini..."
+sleep 2
+echo -e "         Kembali...."
+sleep 2
+echo -e "         Kau hadirkan ingatan  yg seharus nya kulupakan dan ku hancurkan adanya......"
+sleep 14
+echo -e "         Disini..."
+sleep 2
+echo -e "         Kembali...."
+sleep 2
+echo -e  "         Kau hadirkan ingatan  yg seharus nya kulupakan dan ku hancurkan adanya......"
+echo -e
+echo -e $yellow
+sleep 14
+echo -e "         Letih disini ku inggin hilang ingatan ....."
+sleep 8
+echo -e "         Letih disini ku inggin hilang ingatan ......."
+sleep 8
+echo -e "         Letih disini ku inggin hilang ingatan ........"
+sleep 8
+echo -e "         Letih disini ku inggin hilang ingatan .........."
+sleep 8
+echo -e "         Letih disini ku inggin hilang ingatan ..........."
+sleep 25
+echo -e $purple
+echo -e "         Disini..."
+sleep 2
+echo -e "         Kembali...."
+sleep 2
+echo -e "         Kau hadirkan ingatan  yg seharus nya kulupakan dan ku hancurkan adanya......"
+sleep 14
+echo -e "         Disini..."
+sleep 2
+echo -e "         Kembali...."
+sleep 2
+echo -e "         Kau hadirkan ingatan  yg seharus nya kulupakan dan ku hancurkan adanya......"
+sleep 14
+echo -e "         Pergilah bersamanya disana Denggan dia yg ada segalanya....."
+sleep 9
+echo -e
+echo -e
+echo -e
+echo -e
+echo -e " To:     Terimaksih Telah Menemaniku :) ,Janggan Lupa Tersenyum Bahagia Selalu.." | lolcat
+sleep 0
+echo -e " To:     I L O V E u Alya:*" | lolcat
+sleep 0
+echo -e " To:     Semoga Kehadiran Sosok Baru Dalam Hidupmu Bisa Membuatmu Bahagia :) Keep Smile" | lolcat
+sleep 2
+echo -e $red
+echo -e "      •°°°v°°°•"
+echo -e "      °.......°  Mencintaimu Meski Dalam Ketidakpastian"
+echo -e "       °.....°   Aku Akan Terus Perjuangkan...;')"
+echo -e "        °...° "
+echo -e "         °.° "
+echo -e "          °"
+exit
+fi
+fi
