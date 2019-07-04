@@ -1,6 +1,4 @@
 #
-assalamualaikum wr.wb..
-
 pkg install git
 git clone https://github.com/Speedy676/spdy
 clear
@@ -14,9 +12,7 @@ Nah kalo udah install di atas
 2.) click i
 3.) lalu enter
 
-Perhatikan Baik Baik Bgsat
+Perhatikan Baik Baik 
 Done..
 
 Jika Ada Kesalahan Contact Me/Support Me :aangyusuf77@gmail.com  Supaya Saya Update 
-
-wasalamualaikum wr.wb...
